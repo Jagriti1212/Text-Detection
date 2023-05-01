@@ -1,13 +1,13 @@
-1. Install Requirements-
-torch==0.4.1.post2
-torchvision==0.2.1
-opencv-python==3.4.2.17
-scikit-image==0.14.2
-scipy==1.1.0
-lmdb
-pillow
-nltk
-natsort
+1. Install Requirements-<br />
+torch==0.4.1.post2<br />
+torchvision==0.2.1<br />
+opencv-python==3.4.2.17<br />
+scikit-image==0.14.2<br />
+scipy==1.1.0<br />
+lmdb<br />
+pillow<br />
+nltk<br />
+natsort<br />
 
 2. Run the following Command to get the score maps and the results for text detection-
 !python3 Pipeline/pipeline.py --trained_model=Pipeline/craft_mlt_25k.pth --test_folder=Pipeline/test/
