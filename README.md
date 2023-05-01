@@ -1,4 +1,4 @@
-1. Install Requirements-<br />
+1.Install Requirements-<br />
 torch==0.4.1.post2<br />
 torchvision==0.2.1<br />
 opencv-python==3.4.2.17<br />
@@ -9,7 +9,7 @@ pillow<br />
 nltk<br />
 natsort<br />
 
-2. Run the following Command to get the score maps and the results for text detection-<br />
+2.Run the following Command to get the score maps and the results for text detection-<br />
 !python3 Pipeline/pipeline.py --trained_model=Pipeline/craft_mlt_25k.pth --test_folder=Pipeline/test/<br />
 The score maps will be saved in the Pipeline/results folder and the bounding box coordinates of the detected words for every image will be saved in the data.csv file<br />
 
