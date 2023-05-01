@@ -1,0 +1,14 @@
+a618_0.jpg               	 surf                     	 0.5715
+a618_1.jpg               	 excel                    	 0.4999
+a618_2.jpg               	 wash                     	 0.9823
+a618_3.jpg               	 easy                     	 0.5984
+a618_4.jpg               	 liquid                   	 0.4861
+a618_5.jpg               	 for                      	 0.9772
+a618_6.jpg               	 i                        	 0.9544
+a618_7.jpg               	 bucket                   	 0.9760
+a618_8.jpg               	 wash                     	 0.9640
+a618_9.jpg               	 9                        	 0.1883
+a618_10.jpg              	 a                        	 0.0231
+a618_11.jpg              	 i                        	 0.4712
+a618_12.jpg              	 5                        	 0.1838
+a618_13.jpg              	 5                        	 0.3096

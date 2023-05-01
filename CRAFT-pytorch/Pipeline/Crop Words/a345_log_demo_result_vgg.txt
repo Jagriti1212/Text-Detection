@@ -1,0 +1,16 @@
+a345_0.jpg               	 sharpe                   	 0.3754
+a345_1.jpg               	 stronged                 	 0.3243
+a345_2.jpg               	 taller                   	 0.6575
+a345_3.jpg               	 iicary                   	 0.0487
+a345_4.jpg               	 wasedfood                	 0.0747
+a345_5.jpg               	 ty                       	 0.0072
+a345_6.jpg               	 crovess                  	 0.3914
+a345_7.jpg               	 basi                     	 0.3024
+a345_8.jpg               	 rage                     	 0.7282
+a345_9.jpg               	 ml                       	 0.4267
+a345_10.jpg              	 chocolaih                	 0.1965
+a345_11.jpg              	 delight                  	 0.1667
+a345_12.jpg              	 200                      	 0.8778
+a345_13.jpg              	 9                        	 0.6947
+a345_14.jpg              	 flavour                  	 0.6491
+a345_15.jpg              	 200y                     	 0.6528

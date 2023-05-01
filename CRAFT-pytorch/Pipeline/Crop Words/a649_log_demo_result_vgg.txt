@@ -1,0 +1,10 @@
+a649_0.jpg               	 he                       	 0.2504
+a649_1.jpg               	 se                       	 0.1751
+a649_2.jpg               	 tad                      	 0.0018
+a649_3.jpg               	 t                        	 0.0771
+a649_4.jpg               	 thgle                    	 0.0015
+a649_5.jpg               	 meg                      	 0.0037
+a649_6.jpg               	 sonsit                   	 0.0001
+a649_7.jpg               	 aret                     	 0.0765
+a649_8.jpg               	 from                     	 0.4345
+a649_9.jpg               	 from                     	 0.4345

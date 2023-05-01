@@ -1,0 +1,17 @@
+a212_0.jpg               	 e                        	 0.7187
+a212_1.jpg               	 erfume                   	 0.8529
+a212_2.jpg               	 yardley                  	 0.3885
+a212_3.jpg               	 his                      	 0.4837
+a212_4.jpg               	 pack                     	 0.6677
+a212_5.jpg               	 london                   	 0.5230
+a212_6.jpg               	 ey                       	 0.7016
+a212_7.jpg               	 elegance                 	 0.3993
+a212_8.jpg               	 man                      	 0.9345
+a212_9.jpg               	 deodorizing              	 0.5734
+a212_10.jpg              	 talc                     	 0.8752
+a212_11.jpg              	 celebrating              	 0.2909
+a212_12.jpg              	 250                      	 0.7143
+a212_13.jpg              	 years                    	 0.9883
+a212_14.jpg              	 g                        	 0.1341
+a212_15.jpg              	 a                        	 0.8609
+a212_16.jpg              	 gr                       	 0.9598

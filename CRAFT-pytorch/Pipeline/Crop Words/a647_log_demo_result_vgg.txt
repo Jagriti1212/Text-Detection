@@ -1,0 +1,12 @@
+a647_0.jpg               	 lifebuoy                 	 0.1816
+a647_1.jpg               	 handwash                 	 0.2901
+a647_2.jpg               	 9996                     	 0.1221
+a647_3.jpg               	 protection               	 0.6671
+a647_4.jpg               	 germ                     	 0.7408
+a647_5.jpg               	 fornuln                  	 0.2221
+a647_6.jpg               	 six                      	 0.7826
+a647_7.jpg               	 activ                    	 0.6229
+a647_8.jpg               	 10t                      	 0.2613
+a647_9.jpg               	 total                    	 0.8130
+a647_10.jpg              	 advanced                 	 0.7336
+a647_11.jpg              	 protection               	 0.4913

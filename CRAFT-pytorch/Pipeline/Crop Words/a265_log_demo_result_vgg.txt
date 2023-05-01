@@ -1,0 +1,12 @@
+a265_0.jpg               	 2000                     	 0.5241
+a265_1.jpg               	 extra                    	 0.3425
+a265_2.jpg               	 pink                     	 0.9531
+a265_3.jpg               	 passion                  	 0.8637
+a265_4.jpg               	 in                       	 0.9393
+a265_5.jpg               	 i                        	 0.0095
+a265_6.jpg               	 refeshingly              	 0.2528
+a265_7.jpg               	 fuesly                   	 0.2226
+a265_8.jpg               	 yo0                      	 0.1482
+a265_9.jpg               	 exi                      	 0.0010
+a265_10.jpg              	 withy                    	 0.0353
+a265_11.jpg              	 sunscreen                	 0.5293

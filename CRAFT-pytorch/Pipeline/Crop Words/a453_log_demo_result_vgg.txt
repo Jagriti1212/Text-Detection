@@ -1,0 +1,13 @@
+a453_0.jpg               	 dove                     	 0.4911
+a453_1.jpg               	 body                     	 0.7373
+a453_2.jpg               	 love                     	 0.8315
+a453_3.jpg               	 lash                     	 0.6913
+a453_4.jpg               	 light                    	 0.5180
+a453_5.jpg               	 hydration                	 0.4043
+a453_6.jpg               	 reeters                  	 0.0000
+a453_7.jpg               	 lotion                   	 0.5884
+a453_8.jpg               	 body                     	 0.8667
+a453_9.jpg               	 typ                      	 0.7936
+a453_10.jpg              	 nutriduo                 	 0.6840
+a453_11.jpg              	 paraben                  	 0.7053
+a453_12.jpg              	 fre                      	 0.9909

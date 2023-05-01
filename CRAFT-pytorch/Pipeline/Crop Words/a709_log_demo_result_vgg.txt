@@ -1,0 +1,12 @@
+a709_0.jpg               	 pack                     	 0.4822
+a709_1.jpg               	 new                      	 0.1480
+a709_2.jpg               	 dabus                    	 0.6766
+a709_3.jpg               	 amla                     	 0.3523
+a709_4.jpg               	 hain                     	 0.5654
+a709_5.jpg               	 oil                      	 0.8132
+a709_6.jpg               	 stronger                 	 0.7394
+a709_7.jpg               	 3                        	 0.9966
+a709_8.jpg               	 longer                   	 0.5152
+a709_9.jpg               	 hair                     	 0.9470
+a709_10.jpg              	 thicker                  	 0.7912
+a709_11.jpg              	 benefits                 	 0.4248

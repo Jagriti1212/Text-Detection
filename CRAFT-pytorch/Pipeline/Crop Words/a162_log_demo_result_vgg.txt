@@ -1,0 +1,5 @@
+a162_0.jpg               	 kumari                   	 0.5988
+a162_1.jpg               	 amlaki                   	 0.7260
+a162_2.jpg               	 bhringaraja              	 0.8927
+a162_3.jpg               	 medhini                  	 0.3773
+a162_4.jpg               	 japa                     	 0.9465

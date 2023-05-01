@@ -1,0 +1,11 @@
+a69_0.jpg                	 rexona                   	 0.8941
+a69_1.jpg                	 deodorant                	 0.7060
+a69_2.jpg                	 aloe                     	 0.6029
+a69_3.jpg                	 vera                     	 0.7434
+a69_4.jpg                	 721                      	 0.0471
+a69_5.jpg                	 a                        	 0.0156
+a69_6.jpg                	 odour                    	 0.5246
+a69_7.jpg                	 protections              	 0.3432
+a69_8.jpg                	 new                      	 0.7213
+a69_9.jpg                	 8                        	 0.9698
+a69_10.jpg               	 improved                 	 0.4961

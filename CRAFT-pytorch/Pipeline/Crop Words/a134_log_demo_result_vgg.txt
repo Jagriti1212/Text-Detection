@@ -1,0 +1,6 @@
+a134_0.jpg               	 head                     	 0.9871
+a134_1.jpg               	 8                        	 0.9450
+a134_2.jpg               	 shoulders                	 0.8691
+a134_3.jpg               	 antisdandruff            	 0.2617
+a134_4.jpg               	 shampoo                  	 0.5967
+a134_5.jpg               	 antchairtall             	 0.1342

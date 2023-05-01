@@ -1,0 +1,5 @@
+a32_0.jpg                	 grandmas                 	 0.8262
+a32_1.jpg                	 creamy                   	 0.7254
+a32_2.jpg                	 peanut                   	 0.8988
+a32_3.jpg                	 buiter                   	 0.4695
+a32_4.jpg                	 2000                     	 0.0668

@@ -1,0 +1,16 @@
+a394_0.jpg               	 tress                    	 0.0301
+a394_1.jpg               	 q                        	 0.9911
+a394_2.jpg               	 patanjals                	 0.2488
+a394_3.jpg               	 kesh                     	 0.7902
+a394_4.jpg               	 kanti                    	 0.5359
+a394_5.jpg               	 100x                     	 0.6609
+a394_6.jpg               	 aloevera                 	 0.1640
+a394_7.jpg               	 natural                  	 0.4277
+a394_8.jpg               	 hair                     	 0.9892
+a394_9.jpg               	 cleanser                 	 0.7692
+a394_10.jpg              	 barm                     	 0.0996
+a394_11.jpg              	 wenue                    	 0.3591
+a394_12.jpg              	 beer                     	 0.9940
+a394_13.jpg              	 the                      	 0.1990
+a394_14.jpg              	 shiny                    	 0.8655
+a394_15.jpg              	 bouno                    	 0.1839

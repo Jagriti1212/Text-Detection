@@ -1,0 +1,10 @@
+a349_0.jpg               	 pril                     	 0.6817
+a349_1.jpg               	 kraft                    	 0.4803
+a349_2.jpg               	 mint                     	 0.8361
+a349_3.jpg               	 removes                  	 0.9885
+a349_4.jpg               	 malodour                 	 0.9559
+a349_5.jpg               	 i                        	 0.9248
+a349_6.jpg               	 active                   	 0.3080
+a349_7.jpg               	 cleam                    	 0.5259
+a349_8.jpg               	 insta                    	 0.4407
+a349_9.jpg               	 nower                    	 0.0221

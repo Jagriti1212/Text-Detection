@@ -1,0 +1,12 @@
+a59_0.jpg                	 slide                    	 0.5181
+a59_1.jpg                	 to                       	 0.9860
+a59_2.jpg                	 open                     	 0.9638
+a59_3.jpg                	 engage                   	 0.6280
+a59_4.jpg                	 on                       	 0.9791
+a59_5.jpg                	 day                      	 0.9579
+a59_6.jpg                	 81                       	 0.8165
+a59_7.jpg                	 night                    	 0.3895
+a59_8.jpg                	 2ini                     	 0.1208
+a59_9.jpg                	 1                        	 0.1881
+a59_10.jpg               	 pocket                   	 0.9470
+a59_11.jpg               	 perfume                  	 0.6799

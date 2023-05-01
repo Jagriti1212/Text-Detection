@@ -1,0 +1,12 @@
+a149_0.jpg               	 2000                     	 0.5241
+a149_1.jpg               	 extra                    	 0.3425
+a149_2.jpg               	 pink                     	 0.9531
+a149_3.jpg               	 passion                  	 0.8637
+a149_4.jpg               	 in                       	 0.9393
+a149_5.jpg               	 i                        	 0.0095
+a149_6.jpg               	 refeshingly              	 0.2528
+a149_7.jpg               	 fuesly                   	 0.2226
+a149_8.jpg               	 yo0                      	 0.1482
+a149_9.jpg               	 exi                      	 0.0010
+a149_10.jpg              	 withy                    	 0.0353
+a149_11.jpg              	 sunscreen                	 0.5293

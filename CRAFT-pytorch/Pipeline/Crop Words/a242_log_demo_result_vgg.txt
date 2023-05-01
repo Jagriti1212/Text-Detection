@@ -1,0 +1,12 @@
+a242_0.jpg               	 slide                    	 0.5181
+a242_1.jpg               	 to                       	 0.9860
+a242_2.jpg               	 open                     	 0.9638
+a242_3.jpg               	 engage                   	 0.6280
+a242_4.jpg               	 on                       	 0.9791
+a242_5.jpg               	 day                      	 0.9579
+a242_6.jpg               	 81                       	 0.8165
+a242_7.jpg               	 night                    	 0.3895
+a242_8.jpg               	 2ini                     	 0.1208
+a242_9.jpg               	 1                        	 0.1881
+a242_10.jpg              	 pocket                   	 0.9470
+a242_11.jpg              	 perfume                  	 0.6799

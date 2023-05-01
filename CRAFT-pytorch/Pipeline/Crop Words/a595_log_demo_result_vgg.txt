@@ -1,0 +1,10 @@
+a595_0.jpg               	 pril                     	 0.6817
+a595_1.jpg               	 kraft                    	 0.4803
+a595_2.jpg               	 mint                     	 0.8361
+a595_3.jpg               	 removes                  	 0.9885
+a595_4.jpg               	 malodour                 	 0.9559
+a595_5.jpg               	 i                        	 0.9248
+a595_6.jpg               	 active                   	 0.3080
+a595_7.jpg               	 cleam                    	 0.5259
+a595_8.jpg               	 insta                    	 0.4407
+a595_9.jpg               	 nower                    	 0.0221

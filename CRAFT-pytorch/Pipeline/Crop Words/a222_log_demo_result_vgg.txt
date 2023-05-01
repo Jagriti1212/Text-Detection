@@ -1,0 +1,15 @@
+a222_0.jpg               	 nescai                   	 0.2577
+a222_1.jpg               	 goll                     	 0.9743
+a222_2.jpg               	 blend                    	 0.8081
+a222_3.jpg               	 nescafe                  	 0.8524
+a222_4.jpg               	 gold                     	 0.8877
+a222_5.jpg               	 blend                    	 0.3780
+a222_6.jpg               	 rich                     	 0.7303
+a222_7.jpg               	 smooth                   	 0.8526
+a222_8.jpg               	 crafted                  	 0.4494
+a222_9.jpg               	 with                     	 0.8649
+a222_10.jpg              	 handpicked               	 0.8893
+a222_11.jpg              	 arabica                  	 0.7385
+a222_12.jpg              	 and                      	 0.9145
+a222_13.jpg              	 robusta                  	 0.6264
+a222_14.jpg              	 beans                    	 0.9494

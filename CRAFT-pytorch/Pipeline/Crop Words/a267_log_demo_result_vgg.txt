@@ -1,0 +1,9 @@
+a267_0.jpg               	 up                       	 0.9034
+a267_1.jpg               	 to                       	 0.9859
+a267_2.jpg               	 original                 	 0.4279
+a267_3.jpg               	 complexion               	 0.4354
+a267_4.jpg               	 tx                       	 0.0896
+a267_5.jpg               	 lc                       	 0.5538
+a267_6.jpg               	 t                        	 0.0129
+a267_7.jpg               	 t                        	 0.0129
+a267_8.jpg               	 f                        	 0.0766

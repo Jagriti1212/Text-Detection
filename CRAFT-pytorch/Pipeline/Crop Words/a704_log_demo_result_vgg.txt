@@ -1,0 +1,8 @@
+a704_0.jpg               	 sicky                    	 0.2133
+a704_1.jpg               	 naseline                 	 0.6179
+a704_2.jpg               	 intensive                	 0.4601
+a704_3.jpg               	 ape                      	 0.1430
+a704_4.jpg               	 care                     	 0.7917
+a704_5.jpg               	 tm                       	 0.8886
+a704_6.jpg               	 fresh                    	 0.7198
+a704_7.jpg               	 sgins                    	 0.0000

@@ -1,0 +1,11 @@
+a701_0.jpg               	 bonscheasa               	 0.0141
+a701_1.jpg               	 naseline                 	 0.2427
+a701_2.jpg               	 intensive                	 0.7035
+a701_3.jpg               	 care                     	 0.5471
+a701_4.jpg               	 locoa                    	 0.3730
+a701_5.jpg               	 glow                     	 0.6190
+a701_6.jpg               	 wih                      	 0.0113
+a701_7.jpg               	 butter                   	 0.8776
+a701_8.jpg               	 bure                     	 0.4965
+a701_9.jpg               	 cocoa                    	 0.7737
+a701_10.jpg              	 shea                     	 0.6123

@@ -1,0 +1,9 @@
+a594_0.jpg               	 5                        	 0.5284
+a594_1.jpg               	 fea                      	 0.7277
+a594_2.jpg               	 i                        	 0.2114
+a594_3.jpg               	 s                        	 0.9041
+a594_4.jpg               	 veeba                    	 0.9121
+a594_5.jpg               	 classi                   	 0.3193
+a594_6.jpg               	 raya                     	 0.1931
+a594_7.jpg               	 bo                       	 0.0138
+a594_8.jpg               	 the                      	 0.0046

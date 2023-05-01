@@ -1,0 +1,13 @@
+a473_0.jpg               	 pears                    	 0.9319
+a473_1.jpg               	 fresh                    	 0.7276
+a473_2.jpg               	 renewal                  	 0.4113
+a473_3.jpg               	 soap                     	 0.5149
+a473_4.jpg               	 olo                      	 0.9022
+a473_5.jpg               	 fre                      	 0.0046
+a473_6.jpg               	 facewash                 	 0.8094
+a473_7.jpg               	 uitra                    	 0.0948
+a473_8.jpg               	 mild                     	 0.2257
+a473_9.jpg               	 with                     	 0.9075
+a473_10.jpg              	 gentle                   	 0.5312
+a473_11.jpg              	 exfoliating              	 0.2096
+a473_12.jpg              	 beads                    	 0.9415

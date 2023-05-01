@@ -1,0 +1,10 @@
+a721_0.jpg               	 vivel                    	 0.5643
+a721_1.jpg               	 moisturizing             	 0.2217
+a721_2.jpg               	 body                     	 0.6431
+a721_3.jpg               	 wash                     	 0.5887
+a721_4.jpg               	 i                        	 0.2404
+a721_5.jpg               	 i                        	 0.8181
+a721_6.jpg               	 a                        	 0.4508
+a721_7.jpg               	 4                        	 0.2800
+a721_8.jpg               	 i                        	 0.8803
+a721_9.jpg               	 100mi                    	 0.4887

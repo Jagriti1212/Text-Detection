@@ -1,0 +1,10 @@
+a752_0.jpg               	 llamam                   	 0.2562
+a752_1.jpg               	 neem                     	 0.2526
+a752_2.jpg               	 aloe                     	 0.0979
+a752_3.jpg               	 deercleant               	 0.0266
+a752_4.jpg               	 face                     	 0.7099
+a752_5.jpg               	 wash                     	 0.9541
+a752_6.jpg               	 looy                     	 0.0080
+a752_7.jpg               	 natural                  	 0.7258
+a752_8.jpg               	 neem                     	 0.5792
+a752_9.jpg               	 extract                  	 0.3428

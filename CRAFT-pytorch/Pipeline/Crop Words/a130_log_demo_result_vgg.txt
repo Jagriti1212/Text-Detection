@@ -1,0 +1,3 @@
+a130_0.jpg               	 flama                    	 0.3838
+a130_1.jpg               	 shower                   	 0.7024
+a130_2.jpg               	 gel                      	 0.9730

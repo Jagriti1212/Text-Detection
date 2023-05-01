@@ -1,0 +1,9 @@
+a707_0.jpg               	 pears                    	 0.9743
+a707_1.jpg               	 soft                     	 0.8616
+a707_2.jpg               	 and                      	 0.9528
+a707_3.jpg               	 fresh                    	 0.8699
+a707_4.jpg               	 pure                     	 0.9865
+a707_5.jpg               	 svcn                     	 0.0006
+a707_6.jpg               	 san                      	 0.0010
+a707_7.jpg               	 body                     	 0.9638
+a707_8.jpg               	 wash                     	 0.8450

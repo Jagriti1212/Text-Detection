@@ -1,0 +1,14 @@
+a4_0.jpg                 	 now                      	 0.9585
+a4_1.jpg                 	 ps                       	 0.0000
+a4_2.jpg                 	 sunsilk                  	 0.5012
+a4_3.jpg                 	 lusciously               	 0.2813
+a4_4.jpg                 	 thick                    	 0.8190
+a4_5.jpg                 	 e                        	 0.9899
+a4_6.jpg                 	 long                     	 0.6703
+a4_7.jpg                 	 shampoo                  	 0.3370
+a4_8.jpg                 	 letivamix                	 0.0728
+a4_9.jpg                 	 with                     	 0.5053
+a4_10.jpg                	 yoghuri                  	 0.8830
+a4_11.jpg                	 eeratin                  	 0.0553
+a4_12.jpg                	 proteing                 	 0.3110
+a4_13.jpg                	 macadamiagh              	 0.1515

@@ -1,0 +1,4 @@
+a74_0.jpg                	 clothes                  	 0.3994
+a74_1.jpg                	 hl                       	 0.0951
+a74_2.jpg                	 sunlight                 	 0.6460
+a74_3.jpg                	 liquid                   	 0.7790

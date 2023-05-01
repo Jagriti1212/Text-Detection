@@ -1,0 +1,4 @@
+a633_0.jpg               	 mt                       	 0.8562
+a633_1.jpg               	 premium                  	 0.8888
+a633_2.jpg               	 cic                      	 0.9807
+a633_3.jpg               	 dusttea                  	 0.9238

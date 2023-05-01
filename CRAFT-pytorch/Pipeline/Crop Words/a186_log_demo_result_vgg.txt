@@ -1,0 +1,17 @@
+a186_0.jpg               	 sulfate                  	 0.2773
+a186_1.jpg               	 laureth                  	 0.8003
+a186_2.jpg               	 sodium                   	 0.6055
+a186_3.jpg               	 ingredients              	 0.5522
+a186_4.jpg               	 water                    	 0.2478
+a186_5.jpg               	 cocamidoprophy           	 0.0705
+a186_6.jpg               	 glucoside                	 0.9382
+a186_7.jpg               	 lauryl                   	 0.7537
+a186_8.jpg               	 glycerin                 	 0.1919
+a186_9.jpg               	 dioleate                 	 0.7964
+a186_10.jpg              	 glucose                  	 0.8789
+a186_11.jpg              	 methyl                   	 0.4309
+a186_12.jpg              	 pege120                  	 0.8425
+a186_13.jpg              	 betainer                 	 0.5373
+a186_14.jpg              	 phenoxyethanak           	 0.0758
+a186_15.jpg              	 cocamphoacetate          	 0.0425
+a186_16.jpg              	 sodium                   	 0.6260

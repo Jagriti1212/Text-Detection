@@ -1,0 +1,12 @@
+a448_0.jpg               	 vasmoll                  	 0.5375
+a448_1.jpg               	 rootz                    	 0.6817
+a448_2.jpg               	 almond                   	 0.8758
+a448_3.jpg               	 oil                      	 0.9734
+a448_4.jpg               	 hair                     	 0.8385
+a448_5.jpg               	 with                     	 0.7387
+a448_6.jpg               	 if                       	 0.8712
+a448_7.jpg               	 vitamin                  	 0.2246
+a448_8.jpg               	 nontgreasy               	 0.1871
+a448_9.jpg               	 nourishes                	 0.7212
+a448_10.jpg              	 and                      	 0.9776
+a448_11.jpg              	 protects                 	 0.7684

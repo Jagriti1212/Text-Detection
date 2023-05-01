@@ -1,0 +1,5 @@
+a56_0.jpg                	 after                    	 0.3241
+a56_1.jpg                	 wash                     	 0.5424
+a56_2.jpg                	 omfrt                    	 0.8285
+a56_3.jpg                	 conditiones              	 0.1007
+a56_4.jpg                	 fabric                   	 0.8050

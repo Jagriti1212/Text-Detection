@@ -1,0 +1,2 @@
+a628_0.jpg               	 bru                      	 0.8975
+a628_1.jpg               	 instant                  	 0.7936

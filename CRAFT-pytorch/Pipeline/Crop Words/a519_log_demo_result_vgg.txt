@@ -1,0 +1,9 @@
+a519_0.jpg               	 recyclo                  	 0.2302
+a519_1.jpg               	 eenss                    	 0.0001
+a519_2.jpg               	 50                       	 0.9824
+a519_3.jpg               	 jn                       	 0.0050
+a519_4.jpg               	 vim                      	 0.5121
+a519_5.jpg               	 with                     	 0.9257
+a519_6.jpg               	 power                    	 0.3736
+a519_7.jpg               	 of                       	 0.9950
+a519_8.jpg               	 lemons                   	 0.8406

@@ -1,0 +1,12 @@
+a476_0.jpg               	 slide                    	 0.7340
+a476_1.jpg               	 woman                    	 0.4950
+a476_2.jpg               	 to                       	 0.9862
+a476_3.jpg               	 open                     	 0.6799
+a476_4.jpg               	 engage                   	 0.5320
+a476_5.jpg               	 on                       	 0.9690
+a476_6.jpg               	 day                      	 0.9072
+a476_7.jpg               	 night                    	 0.3378
+a476_8.jpg               	 81                       	 0.4860
+a476_9.jpg               	 2vnd                     	 0.0150
+a476_10.jpg              	 pocket                   	 0.8187
+a476_11.jpg              	 perfume                  	 0.8250

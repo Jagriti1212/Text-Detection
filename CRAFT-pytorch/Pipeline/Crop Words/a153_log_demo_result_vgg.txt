@@ -1,0 +1,14 @@
+a153_0.jpg               	 rama                     	 0.2482
+a153_1.jpg               	 bins                     	 0.4852
+a153_2.jpg               	 in                       	 0.9847
+a153_3.jpg               	 aw                       	 0.2363
+a153_4.jpg               	 ponds                    	 0.5260
+a153_5.jpg               	 starlight                	 0.3653
+a153_6.jpg               	 tale                     	 0.1595
+a153_7.jpg               	 perfumed                 	 0.5775
+a153_8.jpg               	 wee                      	 0.0020
+a153_9.jpg               	 rishler                  	 0.0016
+a153_10.jpg              	 jasmine                  	 0.2245
+a153_11.jpg              	 8                        	 0.9061
+a153_12.jpg              	 300                      	 0.8232
+a153_13.jpg              	 9                        	 0.9940

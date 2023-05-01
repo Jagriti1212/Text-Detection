@@ -1,0 +1,16 @@
+a477_0.jpg               	 fsaoo2                   	 0.0007
+a477_1.jpg               	 soor                     	 0.0032
+a477_2.jpg               	 banjaras                 	 0.9553
+a477_3.jpg               	 ou                       	 0.7519
+a477_4.jpg               	 ch                       	 0.9912
+a477_5.jpg               	 of                       	 0.8964
+a477_6.jpg               	 saffron                  	 0.7904
+a477_7.jpg               	 wash                     	 0.8497
+a477_8.jpg               	 face                     	 0.5541
+a477_9.jpg               	 with                     	 0.6761
+a477_10.jpg              	 papaya                   	 0.4158
+a477_11.jpg              	 brightens                	 0.9728
+a477_12.jpg              	 nourishes                	 0.6150
+a477_13.jpg              	 f                        	 0.3205
+a477_14.jpg              	 dry                      	 0.9819
+a477_15.jpg              	 skin                     	 0.8230

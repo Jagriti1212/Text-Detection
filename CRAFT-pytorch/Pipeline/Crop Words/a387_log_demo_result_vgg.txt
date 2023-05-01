@@ -1,0 +1,15 @@
+a387_0.jpg               	 flama                    	 0.5771
+a387_1.jpg               	 5                        	 0.5814
+a387_2.jpg               	 hand                     	 0.9395
+a387_3.jpg               	 wash                     	 0.6551
+a387_4.jpg               	 sd                       	 0.0009
+a387_5.jpg               	 i                        	 0.3689
+a387_6.jpg               	 for                      	 0.9387
+a387_7.jpg               	 skin                     	 0.8096
+a387_8.jpg               	 that                     	 0.8811
+a387_9.jpg               	 feels                    	 0.9907
+a387_10.jpg              	 soft                     	 0.9609
+a387_11.jpg              	 relax                    	 0.7671
+a387_12.jpg              	 and                      	 0.9038
+a387_13.jpg              	 plang                    	 0.1873
+a387_14.jpg              	 ylang                    	 0.3550

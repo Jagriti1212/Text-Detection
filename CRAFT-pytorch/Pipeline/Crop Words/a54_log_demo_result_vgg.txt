@@ -1,0 +1,5 @@
+a54_0.jpg                	 wash                     	 0.9218
+a54_1.jpg                	 after                    	 0.7186
+a54_2.jpg                	 omfrt                    	 0.3139
+a54_3.jpg                	 conditioned              	 0.0593
+a54_4.jpg                	 fabric                   	 0.5768

@@ -1,0 +1,15 @@
+a503_0.jpg               	 fresd                    	 0.3477
+a503_1.jpg               	 unfla                    	 0.0060
+a503_2.jpg               	 unfla                    	 0.0060
+a503_3.jpg               	 eas                      	 0.0011
+a503_4.jpg               	 conomanes                	 0.0001
+a503_5.jpg               	 amg                      	 0.0133
+a503_6.jpg               	 10                       	 0.9986
+a503_7.jpg               	 x                        	 0.9721
+a503_8.jpg               	 better                   	 0.5295
+a503_9.jpg               	 cleaning                 	 0.4506
+a503_10.jpg              	 with                     	 0.5644
+a503_11.jpg              	 organic                  	 0.4932
+a503_12.jpg              	 active                   	 0.7593
+a503_13.jpg              	 citrus                   	 0.4553
+a503_14.jpg              	 merchay                  	 0.0002

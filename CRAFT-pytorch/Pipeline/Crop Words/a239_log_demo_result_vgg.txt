@@ -1,0 +1,13 @@
+a239_0.jpg               	 nivea                    	 0.6242
+a239_1.jpg               	 deodorant                	 0.9514
+a239_2.jpg               	 whitening                	 0.5971
+a239_3.jpg               	 skin                     	 0.8039
+a239_4.jpg               	 smooth                   	 0.4685
+a239_5.jpg               	 48h                      	 0.9657
+a239_6.jpg               	 protection               	 0.7701
+a239_7.jpg               	 on                       	 0.1892
+a239_8.jpg               	 extracts                 	 0.1933
+a239_9.jpg               	 acchoy                   	 0.1583
+a239_10.jpg              	 mulethi                  	 0.6932
+a239_11.jpg              	 loneg                    	 0.0280
+a239_12.jpg              	 underel                  	 0.0756

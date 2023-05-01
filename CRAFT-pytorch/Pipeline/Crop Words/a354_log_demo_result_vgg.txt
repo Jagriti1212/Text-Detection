@@ -1,0 +1,13 @@
+a354_0.jpg               	 recyclen                 	 0.1760
+a354_1.jpg               	 amer                     	 0.0001
+a354_2.jpg               	 50                       	 0.9929
+a354_3.jpg               	 jot                      	 0.0382
+a354_4.jpg               	 bots                     	 0.2139
+a354_5.jpg               	 yim                      	 0.4389
+a354_6.jpg               	 a                        	 0.2583
+a354_7.jpg               	 with                     	 0.8223
+a354_8.jpg               	 power                    	 0.8412
+a354_9.jpg               	 of                       	 0.9733
+a354_10.jpg              	 lemons                   	 0.6829
+a354_11.jpg              	 uoneons                  	 0.0000
+a354_12.jpg              	 i                        	 0.1647

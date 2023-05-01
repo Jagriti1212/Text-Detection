@@ -1,0 +1,4 @@
+a116_0.jpg               	 park                     	 0.8316
+a116_1.jpg               	 avenue                   	 0.6330
+a116_2.jpg               	 beer                     	 0.9261
+a116_3.jpg               	 shampoo                  	 0.7636

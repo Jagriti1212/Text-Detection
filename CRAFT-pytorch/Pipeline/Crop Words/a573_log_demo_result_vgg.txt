@@ -1,0 +1,9 @@
+a573_0.jpg               	 fing                     	 0.1112
+a573_1.jpg               	 b                        	 0.0179
+a573_2.jpg               	 a                        	 0.0634
+a573_3.jpg               	 sabarn                   	 0.7490
+a573_4.jpg               	 a                        	 0.0041
+a573_5.jpg               	 ting                     	 0.8369
+a573_6.jpg               	 rs                       	 0.3736
+a573_7.jpg               	 yea                      	 0.8410
+a573_8.jpg               	 35                       	 0.9989

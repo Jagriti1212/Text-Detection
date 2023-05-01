@@ -1,0 +1,8 @@
+a141_0.jpg               	 malara                   	 0.6851
+a141_1.jpg               	 top                      	 0.3417
+a141_2.jpg               	 collection               	 0.5473
+a141_3.jpg               	 bakhour                  	 0.8488
+a141_4.jpg               	 freshener                	 0.4277
+a141_5.jpg               	 air                      	 0.8883
+a141_6.jpg               	 neutralized              	 0.4315
+a141_7.jpg               	 odour                    	 0.8315

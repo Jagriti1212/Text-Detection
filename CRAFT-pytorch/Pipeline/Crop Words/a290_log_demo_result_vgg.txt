@@ -1,0 +1,9 @@
+a290_0.jpg               	 prl                      	 0.6258
+a290_1.jpg               	 lime                     	 0.5616
+a290_2.jpg               	 grease                   	 0.7390
+a290_3.jpg               	 fighter                  	 0.5831
+a290_4.jpg               	 active                   	 0.7203
+a290_5.jpg               	 cleary                   	 0.5444
+a290_6.jpg               	 msta                     	 0.0667
+a290_7.jpg               	 power                    	 0.5383
+a290_8.jpg               	 molecul                  	 0.5608

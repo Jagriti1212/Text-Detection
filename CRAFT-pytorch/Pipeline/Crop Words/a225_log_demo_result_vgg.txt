@@ -1,0 +1,17 @@
+a225_0.jpg               	 torq                     	 0.7448
+a225_1.jpg               	 car                      	 0.8911
+a225_2.jpg               	 e                        	 0.9285
+a225_3.jpg               	 bike                     	 0.4790
+a225_4.jpg               	 shampoo                  	 0.7691
+a225_5.jpg               	 det                      	 0.2421
+a225_6.jpg               	 express                  	 0.4880
+a225_7.jpg               	 fine                     	 0.6123
+a225_8.jpg               	 rinsing                  	 0.5475
+a225_9.jpg               	 acton                    	 0.3572
+a225_10.jpg              	 surlaces                 	 0.4001
+a225_11.jpg              	 for                      	 0.9943
+a225_12.jpg              	 all                      	 0.6428
+a225_13.jpg              	 paint                    	 0.5413
+a225_14.jpg              	 advanced                 	 0.6519
+a225_15.jpg              	 wax                      	 0.6159
+a225_16.jpg              	 finish                   	 0.5020

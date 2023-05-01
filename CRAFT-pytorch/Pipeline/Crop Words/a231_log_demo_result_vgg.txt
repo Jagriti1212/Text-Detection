@@ -1,0 +1,15 @@
+a231_0.jpg               	 rectivee                 	 0.0224
+a231_1.jpg               	 cag                      	 0.0004
+a231_2.jpg               	 be                       	 0.1130
+a231_3.jpg               	 chl                      	 0.1471
+a231_4.jpg               	 sunsilk                  	 0.2252
+a231_5.jpg               	 long                     	 0.6996
+a231_6.jpg               	 8                        	 0.8757
+a231_7.jpg               	 healthy                  	 0.8318
+a231_8.jpg               	 growth                   	 0.8515
+a231_9.jpg               	 shampoo                  	 0.9092
+a231_10.jpg              	 lctiamin                 	 0.0150
+a231_11.jpg              	 with                     	 0.6828
+a231_12.jpg              	 entnct                   	 0.0000
+a231_13.jpg              	 protens                  	 0.1425
+a231_14.jpg              	 arganol                  	 0.2763

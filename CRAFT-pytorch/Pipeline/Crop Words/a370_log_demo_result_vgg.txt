@@ -1,0 +1,17 @@
+a370_0.jpg               	 front                    	 0.9399
+a370_1.jpg               	 load                     	 0.3958
+a370_2.jpg               	 removes                  	 0.5457
+a370_3.jpg               	 tough                    	 0.3728
+a370_4.jpg               	 stains                   	 0.4728
+a370_5.jpg               	 in                       	 0.9908
+a370_6.jpg               	 machines                 	 0.4478
+a370_7.jpg               	 surf                     	 0.8546
+a370_8.jpg               	 excel                    	 0.3226
+a370_9.jpg               	 matic                    	 0.8311
+a370_10.jpg              	 liquid                   	 0.5475
+a370_11.jpg              	 oco                      	 0.2261
+a370_12.jpg              	 a                        	 0.5000
+a370_13.jpg              	 f                        	 0.0559
+a370_14.jpg              	 a                        	 0.1875
+a370_15.jpg              	 a                        	 0.0076
+a370_16.jpg              	 a                        	 0.5677

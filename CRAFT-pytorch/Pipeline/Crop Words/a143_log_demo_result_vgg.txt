@@ -1,0 +1,14 @@
+a143_0.jpg               	 imalara                  	 0.2897
+a143_1.jpg               	 odours                   	 0.9078
+a143_2.jpg               	 eliminates               	 0.4551
+a143_3.jpg               	 freshens                 	 0.4400
+a143_4.jpg               	 and                      	 0.8880
+a143_5.jpg               	 abli                     	 0.0818
+a143_6.jpg               	 air                      	 0.9488
+a143_7.jpg               	 84                       	 0.8808
+a143_8.jpg               	 rose                     	 0.6442
+a143_9.jpg               	 blossomi                 	 0.2102
+a143_10.jpg              	 aelice                   	 0.0000
+a143_11.jpg              	 air                      	 0.7147
+a143_12.jpg              	 4                        	 0.0107
+a143_13.jpg              	 net                      	 0.9089

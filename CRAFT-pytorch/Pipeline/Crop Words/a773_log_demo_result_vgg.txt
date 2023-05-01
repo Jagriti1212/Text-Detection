@@ -1,0 +1,6 @@
+a773_0.jpg               	 dabur                    	 0.9604
+a773_1.jpg               	 a                        	 0.0891
+a773_2.jpg               	 premium                  	 0.3394
+a773_3.jpg               	 rozelloter               	 0.0295
+a773_4.jpg               	 allskin                  	 0.3346
+a773_5.jpg               	 ohe                      	 0.3452

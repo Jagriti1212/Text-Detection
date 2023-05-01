@@ -1,0 +1,10 @@
+a346_0.jpg               	 p                        	 0.1214
+a346_1.jpg               	 pril                     	 0.3928
+a346_2.jpg               	 lime                     	 0.6682
+a346_3.jpg               	 grease                   	 0.6364
+a346_4.jpg               	 fighter                  	 0.4648
+a346_5.jpg               	 active                   	 0.5008
+a346_6.jpg               	 cleam                    	 0.7561
+a346_7.jpg               	 ista                     	 0.2380
+a346_8.jpg               	 power                    	 0.4599
+a346_9.jpg               	 molecul                  	 0.8304

@@ -1,0 +1,10 @@
+a439_0.jpg               	 vivel                    	 0.5643
+a439_1.jpg               	 moisturizing             	 0.2217
+a439_2.jpg               	 body                     	 0.6431
+a439_3.jpg               	 wash                     	 0.5887
+a439_4.jpg               	 i                        	 0.2404
+a439_5.jpg               	 i                        	 0.8181
+a439_6.jpg               	 a                        	 0.4508
+a439_7.jpg               	 4                        	 0.2800
+a439_8.jpg               	 i                        	 0.8803
+a439_9.jpg               	 100mi                    	 0.4887

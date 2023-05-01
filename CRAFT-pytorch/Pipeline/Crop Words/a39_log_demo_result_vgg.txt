@@ -1,0 +1,5 @@
+a39_0.jpg                	 pears                    	 0.9032
+a39_1.jpg                	 solt                     	 0.7999
+a39_2.jpg                	 andfresh                 	 0.6574
+a39_3.jpg                	 wash                     	 0.9153
+a39_4.jpg                	 body                     	 0.6591

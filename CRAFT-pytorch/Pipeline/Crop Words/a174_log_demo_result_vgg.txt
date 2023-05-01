@@ -1,0 +1,5 @@
+a174_0.jpg               	 vasmol                   	 0.9037
+a174_1.jpg               	 rootz                    	 0.9604
+a174_2.jpg               	 almond                   	 0.6200
+a174_3.jpg               	 hair                     	 0.9701
+a174_4.jpg               	 oil                      	 0.9654

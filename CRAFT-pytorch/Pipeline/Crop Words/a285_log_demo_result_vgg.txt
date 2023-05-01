@@ -1,0 +1,14 @@
+a285_0.jpg               	 our                      	 0.8528
+a285_1.jpg               	 best                     	 0.6914
+a285_2.jpg               	 ever                     	 0.5171
+a285_3.jpg               	 bajaj                    	 0.5853
+a285_4.jpg               	 almond                   	 0.4491
+a285_5.jpg               	 drops                    	 0.8154
+a285_6.jpg               	 6x                       	 0.8844
+a285_7.jpg               	 vitamin                  	 0.6101
+a285_8.jpg               	 e                        	 0.9101
+a285_9.jpg               	 nourishment              	 0.3307
+a285_10.jpg              	 non                      	 0.7260
+a285_11.jpg              	 sticky                   	 0.5935
+a285_12.jpg              	 hair                     	 0.8058
+a285_13.jpg              	 oil                      	 0.9722

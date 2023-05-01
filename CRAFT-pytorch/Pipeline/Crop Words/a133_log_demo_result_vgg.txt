@@ -1,0 +1,12 @@
+a133_0.jpg               	 imalaya                  	 0.1903
+a133_1.jpg               	 ince                     	 0.4413
+a133_2.jpg               	 io                       	 0.2241
+a133_3.jpg               	 imond                    	 0.7365
+a133_4.jpg               	 rosw                     	 0.1239
+a133_5.jpg               	 soep                     	 0.2601
+a133_6.jpg               	 goorg                    	 0.5281
+a133_7.jpg               	 aer                      	 0.2965
+a133_8.jpg               	 spray                    	 0.7232
+a133_9.jpg               	 violet                   	 0.3986
+a133_10.jpg              	 bloom                    	 0.6719
+a133_11.jpg              	 valley                   	 0.2599

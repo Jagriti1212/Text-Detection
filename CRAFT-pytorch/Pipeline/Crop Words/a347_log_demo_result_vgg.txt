@@ -1,0 +1,8 @@
+a347_0.jpg               	 mards                    	 0.0032
+a347_1.jpg               	 stronged                 	 0.1210
+a347_2.jpg               	 ailer                    	 0.0524
+a347_3.jpg               	 tay                      	 0.0045
+a347_4.jpg               	 drovess                  	 0.0106
+a347_5.jpg               	 be                       	 0.0402
+a347_6.jpg               	 classic                  	 0.1310
+a347_7.jpg               	 malt                     	 0.8817

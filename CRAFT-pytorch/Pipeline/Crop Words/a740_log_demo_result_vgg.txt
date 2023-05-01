@@ -1,0 +1,15 @@
+a740_0.jpg               	 gillette                 	 0.1372
+a740_1.jpg               	 flsion                   	 0.1619
+a740_2.jpg               	 advanced                 	 0.4606
+a740_3.jpg               	 glide                    	 0.9466
+a740_4.jpg               	 technology               	 0.5569
+a740_5.jpg               	 ultra                    	 0.3069
+a740_6.jpg               	 protection               	 0.0956
+a740_7.jpg               	 hydra                    	 0.8959
+a740_8.jpg               	 gel                      	 0.7236
+a740_9.jpg               	 hongy                    	 0.0047
+a740_10.jpg              	 be1s1079                 	 0.0663
+a740_11.jpg              	 exp                      	 0.3844
+a740_12.jpg              	 1012z                    	 0.0039
+a740_13.jpg              	 weight                   	 0.2392
+a740_14.jpg              	 195g                     	 0.4324

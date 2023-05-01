@@ -1,0 +1,14 @@
+a40_0.jpg                	 3103866                  	 0.3569
+a40_1.jpg                	 buy                      	 0.8495
+a40_2.jpg                	 get                      	 0.8751
+a40_3.jpg                	 free                     	 0.9427
+a40_4.jpg                	 dabur                    	 0.4781
+a40_5.jpg                	 honey                    	 0.8054
+a40_6.jpg                	 squeezy                  	 0.5569
+a40_7.jpg                	 any                      	 0.0861
+a40_8.jpg                	 purity                   	 0.5731
+a40_9.jpg                	 guaranteed               	 0.9326
+a40_10.jpg               	 lre                      	 0.0035
+a40_11.jpg               	 hes                      	 0.1143
+a40_12.jpg               	 a                        	 0.4950
+a40_13.jpg               	 0o                       	 0.3009

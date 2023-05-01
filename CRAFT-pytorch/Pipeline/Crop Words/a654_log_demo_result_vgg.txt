@@ -1,0 +1,10 @@
+a654_0.jpg               	 wipro                    	 0.3986
+a654_1.jpg               	 wipro                    	 0.3986
+a654_2.jpg               	 hygienix                 	 0.8112
+a654_3.jpg               	 9990                     	 0.6716
+a654_4.jpg               	 germmprojection          	 0.0672
+a654_5.jpg               	 wash                     	 0.4957
+a654_6.jpg               	 hand                     	 0.9309
+a654_7.jpg               	 shield                   	 0.5906
+a654_8.jpg               	 germ                     	 0.4663
+a654_9.jpg               	 antlbacterial            	 0.0628

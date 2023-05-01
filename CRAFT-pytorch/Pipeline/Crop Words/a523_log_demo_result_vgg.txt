@@ -1,0 +1,15 @@
+a523_0.jpg               	 sunlight                 	 0.4726
+a523_1.jpg               	 rig                      	 0.4766
+a523_2.jpg               	 surf                     	 0.9072
+a523_3.jpg               	 lexcell                  	 0.0369
+a523_4.jpg               	 liquid                   	 0.4899
+a523_5.jpg               	 maticy                   	 0.5519
+a523_6.jpg               	 50                       	 0.9935
+a523_7.jpg               	 arie                     	 0.3700
+a523_8.jpg               	 no                       	 0.5675
+a523_9.jpg               	 soda                     	 0.5880
+a523_10.jpg              	 frone                    	 0.1659
+a523_11.jpg              	 loa                      	 0.1636
+a523_12.jpg              	 matic                    	 0.8272
+a523_13.jpg              	 liquid                   	 0.2659
+a523_14.jpg              	 deterge                  	 0.2333

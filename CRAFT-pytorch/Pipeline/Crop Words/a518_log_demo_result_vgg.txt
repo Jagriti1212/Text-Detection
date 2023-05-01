@@ -1,0 +1,9 @@
+a518_0.jpg               	 prl                      	 0.6258
+a518_1.jpg               	 lime                     	 0.5616
+a518_2.jpg               	 grease                   	 0.7390
+a518_3.jpg               	 fighter                  	 0.5831
+a518_4.jpg               	 active                   	 0.7203
+a518_5.jpg               	 cleary                   	 0.5444
+a518_6.jpg               	 msta                     	 0.0667
+a518_7.jpg               	 power                    	 0.5383
+a518_8.jpg               	 molecul                  	 0.5608

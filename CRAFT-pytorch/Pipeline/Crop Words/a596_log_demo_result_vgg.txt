@@ -1,0 +1,13 @@
+a596_0.jpg               	 pril                     	 0.3498
+a596_1.jpg               	 lamarind                 	 0.5048
+a596_2.jpg               	 shine                    	 0.6630
+a596_3.jpg               	 specialist               	 0.7221
+a596_4.jpg               	 clean                    	 0.6463
+a596_5.jpg               	 active                   	 0.5534
+a596_6.jpg               	 nsta                     	 0.5470
+a596_7.jpg               	 boowes                   	 0.1244
+a596_8.jpg               	 30                       	 0.9774
+a596_9.jpg               	 11                       	 0.1433
+a596_10.jpg              	 2017                     	 0.8369
+a596_11.jpg              	 12                       	 0.9835
+a596_12.jpg              	 2017                     	 0.7353

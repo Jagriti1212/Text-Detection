@@ -1,0 +1,16 @@
+a203_0.jpg               	 dheedhi                  	 0.6106
+a203_1.jpg               	 protein                  	 0.7859
+a203_2.jpg               	 shampoo                  	 0.6234
+a203_3.jpg               	 hair                     	 0.7035
+a203_4.jpg               	 fall                     	 0.5145
+a203_5.jpg               	 control                  	 0.5998
+a203_6.jpg               	 enriched                 	 0.7586
+a203_7.jpg               	 natural                  	 0.7029
+a203_8.jpg               	 with                     	 0.9295
+a203_9.jpg               	 protein                  	 0.5634
+a203_10.jpg              	 nourishers               	 0.9210
+a203_11.jpg              	 indiann                  	 0.2764
+a203_12.jpg              	 thyme                    	 0.7313
+a203_13.jpg              	 gooseberry               	 0.9786
+a203_14.jpg              	 holy                     	 0.9657
+a203_15.jpg              	 basil                    	 0.7329

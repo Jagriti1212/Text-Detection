@@ -1,0 +1,4 @@
+a60_0.jpg                	 225ml                    	 0.8257
+a60_1.jpg                	 net                      	 0.9905
+a60_2.jpg                	 volume                   	 0.5069
+a60_3.jpg                	 a                        	 0.2513

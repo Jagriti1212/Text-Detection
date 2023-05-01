@@ -1,0 +1,17 @@
+a640_0.jpg               	 pril                     	 0.3862
+a640_1.jpg               	 lime                     	 0.4262
+a640_2.jpg               	 grease                   	 0.9712
+a640_3.jpg               	 fighter                  	 0.7827
+a640_4.jpg               	 uiala                    	 0.2552
+a640_5.jpg               	 crisps                   	 0.2161
+a640_6.jpg               	 shine                    	 0.6001
+a640_7.jpg               	 active                   	 0.5062
+a640_8.jpg               	 clean                    	 0.1662
+a640_9.jpg               	 insta                    	 0.4951
+a640_10.jpg              	 power                    	 0.8527
+a640_11.jpg              	 molecules                	 0.9231
+a640_12.jpg              	 tod                      	 0.0022
+a640_13.jpg              	 t                        	 0.0093
+a640_14.jpg              	 a                        	 0.0682
+a640_15.jpg              	 a                        	 0.0199
+a640_16.jpg              	 a                        	 0.0570

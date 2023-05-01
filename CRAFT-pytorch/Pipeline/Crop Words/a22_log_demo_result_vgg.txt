@@ -1,0 +1,15 @@
+a22_0.jpg                	 new                      	 0.5909
+a22_1.jpg                	 d                        	 0.5216
+a22_2.jpg                	 improve                  	 0.1665
+a22_3.jpg                	 yardley                  	 0.3917
+a22_4.jpg                	 lon                      	 0.8689
+a22_5.jpg                	 don                      	 0.8050
+a22_6.jpg                	 royal                    	 0.9276
+a22_7.jpg                	 roses                    	 0.7280
+a22_8.jpg                	 red                      	 0.6383
+a22_9.jpg                	 fragrant                 	 0.8731
+a22_10.jpg               	 talc                     	 0.8584
+a22_11.jpg               	 beauty                   	 0.9650
+a22_12.jpg               	 9700                     	 0.9250
+a22_13.jpg               	 naturally                	 0.3073
+a22_14.jpg               	 derived                  	 0.5579

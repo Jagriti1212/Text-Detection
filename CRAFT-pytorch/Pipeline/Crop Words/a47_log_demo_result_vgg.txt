@@ -1,0 +1,10 @@
+a47_0.jpg                	 i                        	 0.4493
+a47_1.jpg                	 250                      	 0.8920
+a47_2.jpg                	 sprays                   	 0.5096
+a47_3.jpg                	 i                        	 0.1608
+a47_4.jpg                	 good                     	 0.8409
+a47_5.jpg                	 morning                  	 0.6827
+a47_6.jpg                	 perfume                  	 0.6858
+a47_7.jpg                	 pocket                   	 0.8846
+a47_8.jpg                	 wake                     	 0.4746
+a47_9.jpg                	 up                       	 0.9974

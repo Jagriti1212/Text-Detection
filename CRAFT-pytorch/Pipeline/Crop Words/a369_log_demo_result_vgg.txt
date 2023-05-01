@@ -1,0 +1,11 @@
+a369_0.jpg               	 front                    	 0.9277
+a369_1.jpg               	 load                     	 0.5801
+a369_2.jpg               	 removes                  	 0.8966
+a369_3.jpg               	 tough                    	 0.9460
+a369_4.jpg               	 stains                   	 0.7580
+a369_5.jpg               	 in                       	 0.9915
+a369_6.jpg               	 machiness                	 0.3906
+a369_7.jpg               	 surf                     	 0.7603
+a369_8.jpg               	 excel                    	 0.2773
+a369_9.jpg               	 matic                    	 0.4539
+a369_10.jpg              	 liquid                   	 0.2899

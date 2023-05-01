@@ -1,0 +1,11 @@
+a238_0.jpg               	 nivea                    	 0.7464
+a238_1.jpg               	 men                      	 0.7608
+a238_2.jpg               	 cool                     	 0.9738
+a238_3.jpg               	 kick                     	 0.8547
+a238_4.jpg               	 lasting                  	 0.5874
+a238_5.jpg               	 long                     	 0.5817
+a238_6.jpg               	 freshness                	 0.3084
+a238_7.jpg               	 48h                      	 0.7409
+a238_8.jpg               	 formus                   	 0.0015
+a238_9.jpg               	 colscare                 	 0.0576
+a238_10.jpg              	 deodorant                	 0.3725

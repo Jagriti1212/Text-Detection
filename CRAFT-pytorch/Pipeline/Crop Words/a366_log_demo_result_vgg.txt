@@ -1,0 +1,14 @@
+a366_0.jpg               	 surf                     	 0.5715
+a366_1.jpg               	 excel                    	 0.4999
+a366_2.jpg               	 wash                     	 0.9823
+a366_3.jpg               	 easy                     	 0.5984
+a366_4.jpg               	 liquid                   	 0.4861
+a366_5.jpg               	 for                      	 0.9772
+a366_6.jpg               	 i                        	 0.9544
+a366_7.jpg               	 bucket                   	 0.9760
+a366_8.jpg               	 wash                     	 0.9640
+a366_9.jpg               	 9                        	 0.1883
+a366_10.jpg              	 a                        	 0.0231
+a366_11.jpg              	 i                        	 0.4712
+a366_12.jpg              	 5                        	 0.1838
+a366_13.jpg              	 5                        	 0.3096

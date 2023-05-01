@@ -1,0 +1,11 @@
+a227_0.jpg               	 woman                    	 0.7262
+a227_1.jpg               	 engage                   	 0.4799
+a227_2.jpg               	 engage                   	 0.5282
+a227_3.jpg               	 ceraume                  	 0.0165
+a227_4.jpg               	 engae                    	 0.2628
+a227_5.jpg               	 we                       	 0.4681
+a227_6.jpg               	 perfume                  	 0.9419
+a227_7.jpg               	 spray                    	 0.8148
+a227_8.jpg               	 u3                       	 0.8440
+a227_9.jpg               	 erfume                   	 0.2748
+a227_10.jpg              	 pray                     	 0.7021

@@ -1,0 +1,3 @@
+a23_0.jpg                	 listerine                	 0.3941
+a23_1.jpg                	 original                 	 0.8852
+a23_2.jpg                	 mouthwash                	 0.3769

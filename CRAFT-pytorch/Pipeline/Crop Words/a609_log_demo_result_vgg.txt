@@ -1,0 +1,14 @@
+a609_0.jpg               	 getmanns                 	 0.0416
+a609_1.jpg               	 estcie                   	 0.0002
+a609_2.jpg               	 real                     	 0.9630
+a609_3.jpg               	 9                        	 0.7677
+a609_4.jpg               	 n                        	 0.7033
+a609_5.jpg               	 a                        	 0.2989
+a609_6.jpg               	 4                        	 0.9253
+a609_7.jpg               	 is                       	 0.4359
+a609_8.jpg               	 e                        	 0.9464
+a609_9.jpg               	 rich                     	 0.8026
+a609_10.jpg              	 tasting                  	 0.9400
+a609_11.jpg              	 ces                      	 0.2548
+a609_12.jpg              	 and                      	 0.9351
+a609_13.jpg              	 dips                     	 0.9462

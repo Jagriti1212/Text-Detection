@@ -1,0 +1,5 @@
+a608_0.jpg               	 veeba                    	 0.9434
+a608_1.jpg               	 favourites               	 0.7860
+a608_2.jpg               	 classic                  	 0.5969
+a608_3.jpg               	 mayonnaise               	 0.8761
+a608_4.jpg               	 euggestion               	 0.0284

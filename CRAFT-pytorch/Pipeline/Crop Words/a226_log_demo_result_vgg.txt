@@ -1,0 +1,17 @@
+a226_0.jpg               	 torq                     	 0.7448
+a226_1.jpg               	 car                      	 0.8911
+a226_2.jpg               	 e                        	 0.9285
+a226_3.jpg               	 bike                     	 0.4790
+a226_4.jpg               	 shampoo                  	 0.7691
+a226_5.jpg               	 det                      	 0.2421
+a226_6.jpg               	 express                  	 0.4880
+a226_7.jpg               	 fine                     	 0.6123
+a226_8.jpg               	 rinsing                  	 0.5475
+a226_9.jpg               	 acton                    	 0.3572
+a226_10.jpg              	 surlaces                 	 0.4001
+a226_11.jpg              	 for                      	 0.9943
+a226_12.jpg              	 all                      	 0.6428
+a226_13.jpg              	 paint                    	 0.5413
+a226_14.jpg              	 advanced                 	 0.6519
+a226_15.jpg              	 wax                      	 0.6159
+a226_16.jpg              	 finish                   	 0.5020

@@ -1,0 +1,10 @@
+a500_0.jpg               	 american                 	 0.5405
+a500_1.jpg               	 garden                   	 0.6096
+a500_2.jpg               	 r                        	 0.9059
+a500_3.jpg               	 bbq                      	 0.7323
+a500_4.jpg               	 sauce                    	 0.6233
+a500_5.jpg               	 original                 	 0.7216
+a500_6.jpg               	 k10                      	 0.0252
+a500_7.jpg               	 oz                       	 0.9333
+a500_8.jpg               	 18                       	 0.9960
+a500_9.jpg               	 net                      	 0.9544

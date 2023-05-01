@@ -1,0 +1,10 @@
+a53_0.jpg                	 nivea                    	 0.8776
+a53_1.jpg                	 deodorant                	 0.5839
+a53_2.jpg                	 fresh                    	 0.8132
+a53_3.jpg                	 naturall                 	 0.4008
+a53_4.jpg                	 48h                      	 0.5679
+a53_5.jpg                	 protection               	 0.3198
+a53_6.jpg                	 alcohol                  	 0.4801
+a53_7.jpg                	 090                      	 0.1879
+a53_8.jpg                	 freshness                	 0.6173
+a53_9.jpg                	 longlasting              	 0.4311

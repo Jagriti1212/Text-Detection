@@ -1,0 +1,13 @@
+a115_0.jpg               	 new                      	 0.6723
+a115_1.jpg               	 d                        	 0.7422
+a115_2.jpg               	 improvei                 	 0.1208
+a115_3.jpg               	 yardley                  	 0.6195
+a115_4.jpg               	 london                   	 0.7414
+a115_5.jpg               	 english                  	 0.2973
+a115_6.jpg               	 lavender                 	 0.3560
+a115_7.jpg               	 fragrant                 	 0.7412
+a115_8.jpg               	 beauty                   	 0.9206
+a115_9.jpg               	 talc                     	 0.8731
+a115_10.jpg              	 9700                     	 0.9686
+a115_11.jpg              	 naturally                	 0.4210
+a115_12.jpg              	 derived                  	 0.9634

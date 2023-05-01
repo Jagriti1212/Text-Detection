@@ -1,0 +1,14 @@
+a474_0.jpg               	 pears                    	 0.8320
+a474_1.jpg               	 pure                     	 0.6052
+a474_2.jpg               	 and                      	 0.9906
+a474_3.jpg               	 gentle                   	 0.4746
+a474_4.jpg               	 soap                     	 0.9888
+a474_5.jpg               	 olo                      	 0.9158
+a474_6.jpg               	 frem                     	 0.1067
+a474_7.jpg               	 facewash                 	 0.5829
+a474_8.jpg               	 mild                     	 0.1846
+a474_9.jpg               	 ultra                    	 0.3757
+a474_10.jpg              	 987                      	 0.5505
+a474_11.jpg              	 with                     	 0.8390
+a474_12.jpg              	 pure                     	 0.6673
+a474_13.jpg              	 glycerine                	 0.7265

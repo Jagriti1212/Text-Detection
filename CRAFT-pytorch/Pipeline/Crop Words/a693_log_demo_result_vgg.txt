@@ -1,0 +1,11 @@
+a693_0.jpg               	 new                      	 0.5803
+a693_1.jpg               	 gel                      	 0.9181
+a693_2.jpg               	 lotion                   	 0.1692
+a693_3.jpg               	 body                     	 0.8039
+a693_4.jpg               	 nivea                    	 0.6014
+a693_5.jpg               	 healthy                  	 0.4279
+a693_6.jpg               	 frosh                    	 0.2910
+a693_7.jpg               	 8                        	 0.8170
+a693_8.jpg               	 gel                      	 0.9777
+a693_9.jpg               	 lotion                   	 0.6747
+a693_10.jpg              	 body                     	 0.8692

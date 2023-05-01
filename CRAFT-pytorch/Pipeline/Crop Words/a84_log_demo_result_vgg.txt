@@ -1,0 +1,4 @@
+a84_0.jpg                	 active                   	 0.3585
+a84_1.jpg                	 ingredient               	 0.5860
+a84_2.jpg                	 hydrochloric             	 0.7676
+a84_3.jpg                	 acid                     	 0.8256

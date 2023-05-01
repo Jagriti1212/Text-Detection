@@ -1,0 +1,17 @@
+a687_0.jpg               	 arn                      	 0.0047
+a687_1.jpg               	 and                      	 0.0147
+a687_2.jpg               	 to                       	 0.9117
+a687_3.jpg               	 ponds                    	 0.7428
+a687_4.jpg               	 ponds                    	 0.9660
+a687_5.jpg               	 formul                   	 0.4645
+a687_6.jpg               	 institute                	 0.7820
+a687_7.jpg               	 triple                   	 0.7763
+a687_8.jpg               	 vitamini                 	 0.0869
+a687_9.jpg               	 silky                    	 0.6734
+a687_10.jpg              	 smooth                   	 0.5942
+a687_11.jpg              	 skin                     	 0.7019
+a687_12.jpg              	 moisturising             	 0.8845
+a687_13.jpg              	 lotion                   	 0.4730
+a687_14.jpg              	 vitamins                 	 0.6087
+a687_15.jpg              	 ba                       	 0.3391
+a687_16.jpg              	 eec                      	 0.9177

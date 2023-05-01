@@ -1,0 +1,11 @@
+a741_0.jpg               	 nurveda                  	 0.2618
+a741_1.jpg               	 adhavana                 	 0.1468
+a741_2.jpg               	 gornam                   	 0.4110
+a741_3.jpg               	 eicle                    	 0.0654
+a741_4.jpg               	 cica                     	 0.2802
+a741_5.jpg               	 hill                     	 0.0134
+a741_6.jpg               	 cd                       	 0.3697
+a741_7.jpg               	 dld                      	 0.6515
+a741_8.jpg               	 4aga                     	 0.3604
+a741_9.jpg               	 4gs                      	 0.0965
+a741_10.jpg              	 edty                     	 0.0255

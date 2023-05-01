@@ -1,0 +1,9 @@
+a632_0.jpg               	 sronced                  	 0.0257
+a632_1.jpg               	 tea                      	 0.9029
+a632_2.jpg               	 sonces                   	 0.0568
+a632_3.jpg               	 vea                      	 0.4446
+a632_4.jpg               	 mt                       	 0.5698
+a632_5.jpg               	 p                        	 0.6008
+a632_6.jpg               	 premium                  	 0.9058
+a632_7.jpg               	 ctc                      	 0.9064
+a632_8.jpg               	 dusttea                  	 0.7373

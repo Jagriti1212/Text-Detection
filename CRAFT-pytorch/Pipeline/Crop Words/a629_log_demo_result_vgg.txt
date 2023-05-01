@@ -1,0 +1,9 @@
+a629_0.jpg               	 ronged                   	 0.4884
+a629_1.jpg               	 congess                  	 0.2785
+a629_2.jpg               	 tea                      	 0.8096
+a629_3.jpg               	 tea                      	 0.9746
+a629_4.jpg               	 mt                       	 0.6183
+a629_5.jpg               	 premium                  	 0.8020
+a629_6.jpg               	 ctc                      	 0.8918
+a629_7.jpg               	 dust                     	 0.7952
+a629_8.jpg               	 tea                      	 0.9914

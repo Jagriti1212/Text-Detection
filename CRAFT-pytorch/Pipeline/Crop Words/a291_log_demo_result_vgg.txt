@@ -1,0 +1,9 @@
+a291_0.jpg               	 recyclo                  	 0.2302
+a291_1.jpg               	 eenss                    	 0.0001
+a291_2.jpg               	 50                       	 0.9824
+a291_3.jpg               	 jn                       	 0.0050
+a291_4.jpg               	 vim                      	 0.5121
+a291_5.jpg               	 with                     	 0.9257
+a291_6.jpg               	 power                    	 0.3736
+a291_7.jpg               	 of                       	 0.9950
+a291_8.jpg               	 lemons                   	 0.8406

@@ -1,0 +1,16 @@
+a172_0.jpg               	 ingredients              	 0.6848
+a172_1.jpg               	 mineral                  	 0.2903
+a172_2.jpg               	 oil                      	 0.4955
+a172_3.jpg               	 vegetable                	 0.6023
+a172_4.jpg               	 oil                      	 0.5123
+a172_5.jpg               	 almond                   	 0.7577
+a172_6.jpg               	 oil                      	 0.9938
+a172_7.jpg               	 vitamin                  	 0.5156
+a172_8.jpg               	 e                        	 0.8981
+a172_9.jpg               	 pertumen                 	 0.2455
+a172_10.jpg              	 burhdoyblese             	 0.0003
+a172_11.jpg              	 quinoline                	 0.6148
+a172_12.jpg              	 yellow                   	 0.9005
+a172_13.jpg              	 a                        	 0.9902
+a172_14.jpg              	 toney                    	 0.7469
+a172_15.jpg              	 ted                      	 0.5932

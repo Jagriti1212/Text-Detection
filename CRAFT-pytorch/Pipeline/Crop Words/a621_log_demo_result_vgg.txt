@@ -1,0 +1,11 @@
+a621_0.jpg               	 front                    	 0.9277
+a621_1.jpg               	 load                     	 0.5801
+a621_2.jpg               	 removes                  	 0.8966
+a621_3.jpg               	 tough                    	 0.9460
+a621_4.jpg               	 stains                   	 0.7580
+a621_5.jpg               	 in                       	 0.9915
+a621_6.jpg               	 machiness                	 0.3906
+a621_7.jpg               	 surf                     	 0.7603
+a621_8.jpg               	 excel                    	 0.2773
+a621_9.jpg               	 matic                    	 0.4539
+a621_10.jpg              	 liquid                   	 0.2899

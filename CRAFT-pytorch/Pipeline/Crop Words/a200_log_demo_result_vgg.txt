@@ -1,0 +1,10 @@
+a200_0.jpg               	 aloe                     	 0.3992
+a200_1.jpg               	 vera                     	 0.8315
+a200_2.jpg               	 was                      	 0.4535
+a200_3.jpg               	 cucumber                 	 0.2505
+a200_4.jpg               	 gel                      	 0.8751
+a200_5.jpg               	 for                      	 0.5266
+a200_6.jpg               	 hydrated                 	 0.6812
+a200_7.jpg               	 and                      	 0.9710
+a200_8.jpg               	 skin                     	 0.7231
+a200_9.jpg               	 smooth                   	 0.9510

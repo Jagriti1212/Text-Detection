@@ -1,0 +1,8 @@
+a772_0.jpg               	 dabur                    	 0.8912
+a772_1.jpg               	 es                       	 0.8178
+a772_2.jpg               	 i                        	 0.0835
+a772_3.jpg               	 sk                       	 0.3638
+a772_4.jpg               	 premium                  	 0.4600
+a772_5.jpg               	 roselaer                 	 0.0199
+a772_6.jpg               	 allskin                  	 0.4005
+a772_7.jpg               	 ohe                      	 0.0678

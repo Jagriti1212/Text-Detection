@@ -1,0 +1,10 @@
+a498_0.jpg               	 10ye                     	 0.2535
+a498_1.jpg               	 i                        	 0.0295
+a498_2.jpg               	 3157                     	 0.1330
+a498_3.jpg               	 clinic                   	 0.3228
+a498_4.jpg               	 plust                    	 0.4992
+a498_5.jpg               	 shampoo                  	 0.7204
+a498_6.jpg               	 health                   	 0.9910
+a498_7.jpg               	 strong                   	 0.6449
+a498_8.jpg               	 8                        	 0.4806
+a498_9.jpg               	 rot                      	 0.9194

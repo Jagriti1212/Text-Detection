@@ -1,0 +1,4 @@
+a43_0.jpg                	 450                      	 0.6127
+a43_1.jpg                	 ml                       	 0.5611
+a43_2.jpg                	 volumes                  	 0.3209
+a43_3.jpg                	 net                      	 0.9841

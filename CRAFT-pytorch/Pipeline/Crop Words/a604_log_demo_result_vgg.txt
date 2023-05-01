@@ -1,0 +1,11 @@
+a604_0.jpg               	 2901                     	 0.3107
+a604_1.jpg               	 2901                     	 0.3107
+a604_2.jpg               	 bectors                  	 0.9333
+a604_3.jpg               	 mrss                     	 0.0705
+a604_4.jpg               	 cremica                  	 0.2875
+a604_5.jpg               	 1978                     	 0.6092
+a604_6.jpg               	 since                    	 0.7281
+a604_7.jpg               	 8                        	 0.9570
+a604_8.jpg               	 mayo                     	 0.4165
+a604_9.jpg               	 vegetarian               	 0.7004
+a604_10.jpg              	 2759                     	 0.9465

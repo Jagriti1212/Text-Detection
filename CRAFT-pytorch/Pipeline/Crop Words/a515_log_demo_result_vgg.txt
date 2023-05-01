@@ -1,0 +1,13 @@
+a515_0.jpg               	 exp                      	 0.4999
+a515_1.jpg               	 urfac                    	 0.0717
+a515_2.jpg               	 tant                     	 0.8766
+a515_3.jpg               	 did                      	 0.3738
+a515_4.jpg               	 uptol                    	 0.2488
+a515_5.jpg               	 virusa                   	 0.6335
+a515_6.jpg               	 24                       	 0.9994
+a515_7.jpg               	 or                       	 0.9459
+a515_8.jpg               	 alls                     	 0.5556
+a515_9.jpg               	 funga                    	 0.7297
+a515_10.jpg              	 8                        	 0.1402
+a515_11.jpg              	 cacteria                 	 0.2283
+a515_12.jpg              	 aotetes                  	 0.0000

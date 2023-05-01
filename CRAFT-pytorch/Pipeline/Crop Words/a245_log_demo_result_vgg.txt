@@ -1,0 +1,7 @@
+a245_0.jpg               	 rexona                   	 0.6035
+a245_1.jpg               	 deodorant                	 0.4891
+a245_2.jpg               	 powder                   	 0.4451
+a245_3.jpg               	 dry                      	 0.4236
+a245_4.jpg               	 721                      	 0.3176
+a245_5.jpg               	 odour                    	 0.7346
+a245_6.jpg               	 protection               	 0.2440

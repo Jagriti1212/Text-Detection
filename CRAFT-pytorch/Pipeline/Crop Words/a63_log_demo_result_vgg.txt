@@ -1,0 +1,11 @@
+a63_0.jpg                	 layerr                   	 0.5527
+a63_1.jpg                	 shot                     	 0.9847
+a63_2.jpg                	 fiery                    	 0.7710
+a63_3.jpg                	 pride                    	 0.4956
+a63_4.jpg                	 fragrant                 	 0.8638
+a63_5.jpg                	 body                     	 0.9418
+a63_6.jpg                	 spray                    	 0.8725
+a63_7.jpg                	 130                      	 0.9590
+a63_8.jpg                	 ml                       	 0.8788
+a63_9.jpg                	 439                      	 0.9795
+a63_10.jpg               	 floz                     	 0.9088

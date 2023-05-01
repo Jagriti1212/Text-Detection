@@ -1,0 +1,9 @@
+a516_0.jpg               	 prl                      	 0.4487
+a516_1.jpg               	 lime                     	 0.3935
+a516_2.jpg               	 grease                   	 0.5106
+a516_3.jpg               	 fighter                  	 0.5986
+a516_4.jpg               	 active                   	 0.3077
+a516_5.jpg               	 clean                    	 0.6532
+a516_6.jpg               	 ista                     	 0.1022
+a516_7.jpg               	 power                    	 0.5493
+a516_8.jpg               	 molecules                	 0.9527

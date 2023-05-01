@@ -1,0 +1,17 @@
+a480_0.jpg               	 ponds                    	 0.4718
+a480_1.jpg               	 formulated               	 0.6444
+a480_2.jpg               	 institute                	 0.5946
+a480_3.jpg               	 by                       	 0.9060
+a480_4.jpg               	 the                      	 0.9567
+a480_5.jpg               	 ponds                    	 0.3966
+a480_6.jpg               	 5                        	 0.8163
+a480_7.jpg               	 vitamini                 	 0.3124
+a480_8.jpg               	 triple                   	 0.7674
+a480_9.jpg               	 silky                    	 0.9153
+a480_10.jpg              	 smooth                   	 0.5635
+a480_11.jpg              	 skin                     	 0.5840
+a480_12.jpg              	 moisturising             	 0.5021
+a480_13.jpg              	 lotion                   	 0.4475
+a480_14.jpg              	 vitamins                 	 0.8501
+a480_15.jpg              	 b35                      	 0.1787
+a480_16.jpg              	 eec                      	 0.8497

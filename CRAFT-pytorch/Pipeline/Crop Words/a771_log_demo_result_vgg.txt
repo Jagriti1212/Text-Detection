@@ -1,0 +1,10 @@
+a771_0.jpg               	 net                      	 0.7829
+a771_1.jpg               	 voll                     	 0.4575
+a771_2.jpg               	 300                      	 0.6122
+a771_3.jpg               	 anll                     	 0.0413
+a771_4.jpg               	 a                        	 0.2431
+a771_5.jpg               	 naseline                 	 0.3782
+a771_6.jpg               	 skin                     	 0.8356
+a771_7.jpg               	 protecting               	 0.3644
+a771_8.jpg               	 jelly                    	 0.8162
+a771_9.jpg               	 original                 	 0.7700

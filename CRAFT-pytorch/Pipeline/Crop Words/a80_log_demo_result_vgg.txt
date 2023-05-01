@@ -1,0 +1,3 @@
+a80_0.jpg                	 surf                     	 0.9008
+a80_1.jpg                	 excel                    	 0.4130
+a80_2.jpg                	 matic                    	 0.4451

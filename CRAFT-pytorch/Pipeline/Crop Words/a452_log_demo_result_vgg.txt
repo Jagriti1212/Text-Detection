@@ -1,0 +1,16 @@
+a452_0.jpg               	 clear                    	 0.4418
+a452_1.jpg               	 antldandruff             	 0.2997
+a452_2.jpg               	 oil                      	 0.6892
+a452_3.jpg               	 nourishing               	 0.3011
+a452_4.jpg               	 hair                     	 0.7396
+a452_5.jpg               	 powered                  	 0.5291
+a452_6.jpg               	 by                       	 0.9102
+a452_7.jpg               	 cleartech                	 0.3636
+a452_8.jpg               	 cleartech                	 0.3636
+a452_9.jpg               	 active                   	 0.2130
+a452_10.jpg              	 care                     	 0.7917
+a452_11.jpg              	 clinically               	 0.5454
+a452_12.jpg              	 formula                  	 0.4335
+a452_13.jpg              	 proven                   	 0.2985
+a452_14.jpg              	 ml                       	 0.2035
+a452_15.jpg              	 ml                       	 0.2035

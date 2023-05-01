@@ -1,0 +1,7 @@
+a262_0.jpg               	 imalaya                  	 0.3374
+a262_1.jpg               	 nct                      	 0.0496
+a262_2.jpg               	 odonil                   	 0.9455
+a262_3.jpg               	 room                     	 0.5419
+a262_4.jpg               	 spray                    	 0.6179
+a262_5.jpg               	 sandal                   	 0.8735
+a262_6.jpg               	 bouquet                  	 0.3042

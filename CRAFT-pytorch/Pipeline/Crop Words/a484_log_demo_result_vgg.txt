@@ -1,0 +1,6 @@
+a484_0.jpg               	 dabur                    	 0.9604
+a484_1.jpg               	 a                        	 0.0891
+a484_2.jpg               	 premium                  	 0.3394
+a484_3.jpg               	 rozelloter               	 0.0295
+a484_4.jpg               	 allskin                  	 0.3346
+a484_5.jpg               	 ohe                      	 0.3452

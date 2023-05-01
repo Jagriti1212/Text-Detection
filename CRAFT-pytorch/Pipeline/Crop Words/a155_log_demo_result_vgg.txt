@@ -1,0 +1,9 @@
+a155_0.jpg               	 up                       	 0.9034
+a155_1.jpg               	 to                       	 0.9859
+a155_2.jpg               	 original                 	 0.4279
+a155_3.jpg               	 complexion               	 0.4354
+a155_4.jpg               	 tx                       	 0.0896
+a155_5.jpg               	 lc                       	 0.5538
+a155_6.jpg               	 t                        	 0.0129
+a155_7.jpg               	 t                        	 0.0129
+a155_8.jpg               	 f                        	 0.0766

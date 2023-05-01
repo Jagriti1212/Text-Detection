@@ -1,0 +1,17 @@
+a622_0.jpg               	 front                    	 0.9399
+a622_1.jpg               	 load                     	 0.3958
+a622_2.jpg               	 removes                  	 0.5457
+a622_3.jpg               	 tough                    	 0.3728
+a622_4.jpg               	 stains                   	 0.4728
+a622_5.jpg               	 in                       	 0.9908
+a622_6.jpg               	 machines                 	 0.4478
+a622_7.jpg               	 surf                     	 0.8546
+a622_8.jpg               	 excel                    	 0.3226
+a622_9.jpg               	 matic                    	 0.8311
+a622_10.jpg              	 liquid                   	 0.5475
+a622_11.jpg              	 oco                      	 0.2261
+a622_12.jpg              	 a                        	 0.5000
+a622_13.jpg              	 f                        	 0.0559
+a622_14.jpg              	 a                        	 0.1875
+a622_15.jpg              	 a                        	 0.0076
+a622_16.jpg              	 a                        	 0.5677

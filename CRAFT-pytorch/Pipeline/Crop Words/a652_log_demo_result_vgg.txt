@@ -1,0 +1,6 @@
+a652_0.jpg               	 dettal                   	 0.1043
+a652_1.jpg               	 medimix                  	 0.6793
+a652_2.jpg               	 sandal                   	 0.4842
+a652_3.jpg               	 handwash                 	 0.5836
+a652_4.jpg               	 r2500                    	 0.6877
+a652_5.jpg               	 off                      	 0.9853

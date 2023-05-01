@@ -1,0 +1,3 @@
+a72_0.jpg                	 extract                  	 0.1800
+a72_1.jpg                	 neem                     	 0.8529
+a72_2.jpg                	 contents                 	 0.4257

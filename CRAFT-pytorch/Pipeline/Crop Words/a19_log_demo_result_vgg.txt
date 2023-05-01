@@ -1,0 +1,2 @@
+a19_0.jpg                	 colgate                  	 0.5452
+a19_1.jpg                	 maxfresh                 	 0.5868

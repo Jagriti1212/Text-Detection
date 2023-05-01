@@ -1,0 +1,13 @@
+a283_0.jpg               	 laraclute                	 0.1733
+a283_1.jpg               	 matil                    	 0.6280
+a283_2.jpg               	 advansedm                	 0.1640
+a283_3.jpg               	 jasmune                  	 0.6125
+a283_4.jpg               	 shiny                    	 0.7636
+a283_5.jpg               	 hello                    	 0.5701
+a283_6.jpg               	 hairl                    	 0.8345
+a283_7.jpg               	 mitamini                 	 0.1655
+a283_8.jpg               	 e                        	 0.6620
+a283_9.jpg               	 nonesticky               	 0.1146
+a283_10.jpg              	 coconut                  	 0.2316
+a283_11.jpg              	 har                      	 0.3171
+a283_12.jpg              	 oil                      	 0.6327

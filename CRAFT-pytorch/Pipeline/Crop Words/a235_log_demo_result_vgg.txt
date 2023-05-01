@@ -1,0 +1,10 @@
+a235_0.jpg               	 i                        	 0.4493
+a235_1.jpg               	 250                      	 0.8920
+a235_2.jpg               	 sprays                   	 0.5096
+a235_3.jpg               	 i                        	 0.1608
+a235_4.jpg               	 good                     	 0.8409
+a235_5.jpg               	 morning                  	 0.6827
+a235_6.jpg               	 perfume                  	 0.6858
+a235_7.jpg               	 pocket                   	 0.8846
+a235_8.jpg               	 wake                     	 0.4746
+a235_9.jpg               	 up                       	 0.9974

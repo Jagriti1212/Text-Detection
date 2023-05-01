@@ -1,0 +1,17 @@
+a449_0.jpg               	 piramal                  	 0.9516
+a449_1.jpg               	 lacto                    	 0.2319
+a449_2.jpg               	 calamine                 	 0.6577
+a449_3.jpg               	 face                     	 0.8538
+a449_4.jpg               	 lotion                   	 0.4143
+a449_5.jpg               	 kaolin                   	 0.7015
+a449_6.jpg               	 clay                     	 0.8239
+a449_7.jpg               	 oil                      	 0.9312
+a449_8.jpg               	 excess                   	 0.4955
+a449_9.jpg               	 absorbs                  	 0.6951
+a449_10.jpg              	 only                     	 0.5893
+a449_11.jpg              	 paraben                  	 0.6632
+a449_12.jpg              	 free                     	 0.9946
+a449_13.jpg              	 for                      	 0.9969
+a449_14.jpg              	 oily                     	 0.5580
+a449_15.jpg              	 skin                     	 0.3646
+a449_16.jpg              	 120mi                    	 0.9269

@@ -1,0 +1,4 @@
+a112_0.jpg               	 rinse                    	 0.8555
+a112_1.jpg               	 kabant                   	 0.7999
+a112_2.jpg               	 liquid                   	 0.4578
+a112_3.jpg               	 detergent                	 0.2948

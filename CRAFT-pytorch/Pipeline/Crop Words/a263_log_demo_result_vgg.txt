@@ -1,0 +1,8 @@
+a263_0.jpg               	 malara                   	 0.6851
+a263_1.jpg               	 top                      	 0.3417
+a263_2.jpg               	 collection               	 0.5473
+a263_3.jpg               	 bakhour                  	 0.8488
+a263_4.jpg               	 freshener                	 0.4277
+a263_5.jpg               	 air                      	 0.8883
+a263_6.jpg               	 neutralized              	 0.4315
+a263_7.jpg               	 odour                    	 0.8315

@@ -1,0 +1,9 @@
+a374_0.jpg               	 sronced                  	 0.0257
+a374_1.jpg               	 tea                      	 0.9029
+a374_2.jpg               	 sonces                   	 0.0568
+a374_3.jpg               	 vea                      	 0.4446
+a374_4.jpg               	 mt                       	 0.5698
+a374_5.jpg               	 p                        	 0.6008
+a374_6.jpg               	 premium                  	 0.9058
+a374_7.jpg               	 ctc                      	 0.9064
+a374_8.jpg               	 dusttea                  	 0.7373

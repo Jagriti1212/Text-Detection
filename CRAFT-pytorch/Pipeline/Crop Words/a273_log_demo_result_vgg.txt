@@ -1,0 +1,10 @@
+a273_0.jpg               	 palmolive                	 0.6789
+a273_1.jpg               	 foaming                  	 0.3043
+a273_2.jpg               	 wash                     	 0.8817
+a273_3.jpg               	 hand                     	 0.8736
+a273_4.jpg               	 hydrating                	 0.5794
+a273_5.jpg               	 lime                     	 0.8123
+a273_6.jpg               	 8                        	 0.7939
+a273_7.jpg               	 mint                     	 0.5998
+a273_8.jpg               	 say                      	 0.0059
+a273_9.jpg               	 250ml                    	 0.5260

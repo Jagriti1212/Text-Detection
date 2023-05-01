@@ -1,0 +1,16 @@
+a256_0.jpg               	 ustry                    	 0.0233
+a256_1.jpg               	 ustra                    	 0.8571
+a256_2.jpg               	 baroo                    	 0.9035
+a256_3.jpg               	 ustrna                   	 0.4627
+a256_4.jpg               	 hairy                    	 0.3648
+a256_5.jpg               	 cream                    	 0.5001
+a256_6.jpg               	 growth                   	 0.3949
+a256_7.jpg               	 baldness                 	 0.3977
+a256_8.jpg               	 hargets                  	 0.2263
+a256_9.jpg               	 pattern                  	 0.8579
+a256_10.jpg              	 male                     	 0.6963
+a256_11.jpg              	 braees                   	 0.0000
+a256_12.jpg              	 how                      	 0.7936
+a256_13.jpg              	 a                        	 0.3419
+a256_14.jpg              	 foily                    	 0.7198
+a256_15.jpg              	 sulphate                 	 0.8039

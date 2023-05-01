@@ -1,0 +1,8 @@
+a7_0.jpg                 	 pantener                 	 0.3826
+a7_1.jpg                 	 hairfall                 	 0.5641
+a7_2.jpg                 	 solution                 	 0.6967
+a7_3.jpg                 	 advanced                 	 0.2221
+a7_4.jpg                 	 shampoo                  	 0.1343
+a7_5.jpg                 	 care                     	 0.8459
+a7_6.jpg                 	 smooth                   	 0.3957
+a7_7.jpg                 	 silky                    	 0.8447

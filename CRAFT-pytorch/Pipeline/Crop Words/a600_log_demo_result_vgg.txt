@@ -1,0 +1,13 @@
+a600_0.jpg               	 recyclen                 	 0.1760
+a600_1.jpg               	 amer                     	 0.0001
+a600_2.jpg               	 50                       	 0.9929
+a600_3.jpg               	 jot                      	 0.0382
+a600_4.jpg               	 bots                     	 0.2139
+a600_5.jpg               	 yim                      	 0.4389
+a600_6.jpg               	 a                        	 0.2583
+a600_7.jpg               	 with                     	 0.8223
+a600_8.jpg               	 power                    	 0.8412
+a600_9.jpg               	 of                       	 0.9733
+a600_10.jpg              	 lemons                   	 0.6829
+a600_11.jpg              	 uoneons                  	 0.0000
+a600_12.jpg              	 i                        	 0.1647

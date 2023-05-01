@@ -1,0 +1,10 @@
+a482_0.jpg               	 net                      	 0.7829
+a482_1.jpg               	 voll                     	 0.4575
+a482_2.jpg               	 300                      	 0.6122
+a482_3.jpg               	 anll                     	 0.0413
+a482_4.jpg               	 a                        	 0.2431
+a482_5.jpg               	 naseline                 	 0.3782
+a482_6.jpg               	 skin                     	 0.8356
+a482_7.jpg               	 protecting               	 0.3644
+a482_8.jpg               	 jelly                    	 0.8162
+a482_9.jpg               	 original                 	 0.7700

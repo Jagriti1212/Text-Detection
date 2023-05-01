@@ -1,0 +1,7 @@
+a11_0.jpg                	 tm                       	 0.7946
+a11_1.jpg                	 imalaya                  	 0.3379
+a11_2.jpg                	 since                    	 0.5361
+a11_3.jpg                	 i                        	 0.2730
+a11_4.jpg                	 930                      	 0.8293
+a11_5.jpg                	 baby                     	 0.6961
+a11_6.jpg                	 lotion                   	 0.6688

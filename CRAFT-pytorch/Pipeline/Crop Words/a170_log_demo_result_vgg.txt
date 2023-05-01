@@ -1,0 +1,3 @@
+a170_0.jpg               	 net                      	 0.9871
+a170_1.jpg               	 content                  	 0.3810
+a170_2.jpg               	 250mi                    	 0.8220

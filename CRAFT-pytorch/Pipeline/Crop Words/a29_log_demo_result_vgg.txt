@@ -1,0 +1,5 @@
+a29_0.jpg                	 vasmol                   	 0.9037
+a29_1.jpg                	 rootz                    	 0.9604
+a29_2.jpg                	 almond                   	 0.6200
+a29_3.jpg                	 hair                     	 0.9701
+a29_4.jpg                	 oil                      	 0.9654

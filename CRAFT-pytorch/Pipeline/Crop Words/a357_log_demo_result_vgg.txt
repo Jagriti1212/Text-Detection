@@ -1,0 +1,14 @@
+a357_0.jpg               	 chlorhexidine            	 0.1555
+a357_1.jpg               	 gluconate                	 0.6980
+a357_2.jpg               	 getrimide                	 0.5105
+a357_3.jpg               	 solution                 	 0.5949
+a357_4.jpg               	 savlon                   	 0.1946
+a357_5.jpg               	 antiseptic               	 0.2124
+a357_6.jpg               	 strong                   	 0.7135
+a357_7.jpg               	 formula                  	 0.9557
+a357_8.jpg               	 disinfectant             	 0.3788
+a357_9.jpg               	 diluto                   	 0.3311
+a357_10.jpg              	 liquid                   	 0.6931
+a357_11.jpg              	 betore                   	 0.5716
+a357_12.jpg              	 use                      	 0.0350
+a357_13.jpg              	 to                       	 0.2363

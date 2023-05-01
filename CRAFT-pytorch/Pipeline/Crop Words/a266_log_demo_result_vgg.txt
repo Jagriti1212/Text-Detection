@@ -1,0 +1,14 @@
+a266_0.jpg               	 rama                     	 0.2482
+a266_1.jpg               	 bins                     	 0.4852
+a266_2.jpg               	 in                       	 0.9847
+a266_3.jpg               	 aw                       	 0.2363
+a266_4.jpg               	 ponds                    	 0.5260
+a266_5.jpg               	 starlight                	 0.3653
+a266_6.jpg               	 tale                     	 0.1595
+a266_7.jpg               	 perfumed                 	 0.5775
+a266_8.jpg               	 wee                      	 0.0020
+a266_9.jpg               	 rishler                  	 0.0016
+a266_10.jpg              	 jasmine                  	 0.2245
+a266_11.jpg              	 8                        	 0.9061
+a266_12.jpg              	 300                      	 0.8232
+a266_13.jpg              	 9                        	 0.9940

@@ -1,0 +1,11 @@
+a454_0.jpg               	 nurveda                  	 0.2618
+a454_1.jpg               	 adhavana                 	 0.1468
+a454_2.jpg               	 gornam                   	 0.4110
+a454_3.jpg               	 eicle                    	 0.0654
+a454_4.jpg               	 cica                     	 0.2802
+a454_5.jpg               	 hill                     	 0.0134
+a454_6.jpg               	 cd                       	 0.3697
+a454_7.jpg               	 dld                      	 0.6515
+a454_8.jpg               	 4aga                     	 0.3604
+a454_9.jpg               	 4gs                      	 0.0965
+a454_10.jpg              	 edty                     	 0.0255

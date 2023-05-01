@@ -1,0 +1,9 @@
+a558_0.jpg               	 coln                     	 0.6797
+a558_1.jpg               	 multisuntacey            	 0.0366
+a558_2.jpg               	 a                        	 0.7685
+a558_3.jpg               	 cleaner                  	 0.2162
+a558_4.jpg               	 be                       	 0.5803
+a558_5.jpg               	 glass                    	 0.6035
+a558_6.jpg               	 th                       	 0.0037
+a558_7.jpg               	 sparkling                	 0.5857
+a558_8.jpg               	 shine                    	 0.7219

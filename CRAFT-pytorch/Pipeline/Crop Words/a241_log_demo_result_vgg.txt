@@ -1,0 +1,16 @@
+a241_0.jpg               	 th                       	 0.0170
+a241_1.jpg               	 nivea                    	 0.5190
+a241_2.jpg               	 to                       	 0.0031
+a241_3.jpg               	 o                        	 0.0054
+a241_4.jpg               	 deodorant                	 0.8147
+a241_5.jpg               	 whitening                	 0.4894
+a241_6.jpg               	 sensitive                	 0.6423
+a241_7.jpg               	 eveny                    	 0.3249
+a241_8.jpg               	 underarms                	 0.2251
+a241_9.jpg               	 toned                    	 0.4763
+a241_10.jpg              	 48h                      	 0.9785
+a241_11.jpg              	 protection               	 0.8129
+a241_12.jpg              	 alcoholl                 	 0.7286
+a241_13.jpg              	 0o0                      	 0.1111
+a241_14.jpg              	 licorice                 	 0.7246
+a241_15.jpg              	 extracts                 	 0.3618

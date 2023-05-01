@@ -1,0 +1,16 @@
+a57_0.jpg                	 th                       	 0.0170
+a57_1.jpg                	 nivea                    	 0.5190
+a57_2.jpg                	 to                       	 0.0031
+a57_3.jpg                	 o                        	 0.0054
+a57_4.jpg                	 deodorant                	 0.8147
+a57_5.jpg                	 whitening                	 0.4894
+a57_6.jpg                	 sensitive                	 0.6423
+a57_7.jpg                	 eveny                    	 0.3249
+a57_8.jpg                	 underarms                	 0.2251
+a57_9.jpg                	 toned                    	 0.4763
+a57_10.jpg               	 48h                      	 0.9785
+a57_11.jpg               	 protection               	 0.8129
+a57_12.jpg               	 alcoholl                 	 0.7286
+a57_13.jpg               	 0o0                      	 0.1111
+a57_14.jpg               	 licorice                 	 0.7246
+a57_15.jpg               	 extracts                 	 0.3618

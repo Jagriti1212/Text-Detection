@@ -1,0 +1,15 @@
+a351_0.jpg               	 pril                     	 0.5668
+a351_1.jpg               	 p                        	 0.7819
+a351_2.jpg               	 tamarind                 	 0.6057
+a351_3.jpg               	 shine                    	 0.6020
+a351_4.jpg               	 specialist               	 0.4582
+a351_5.jpg               	 active                   	 0.7366
+a351_6.jpg               	 active                   	 0.7366
+a351_7.jpg               	 clean                    	 0.2681
+a351_8.jpg               	 iosta                    	 0.1825
+a351_9.jpg               	 lama                     	 0.5708
+a351_10.jpg              	 boowes                   	 0.1495
+a351_11.jpg              	 shine                    	 0.7563
+a351_12.jpg              	 sp                       	 0.9851
+a351_13.jpg              	 peter                    	 0.0016
+a351_14.jpg              	 tee                      	 0.4495

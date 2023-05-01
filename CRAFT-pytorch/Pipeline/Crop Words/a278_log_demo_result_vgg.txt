@@ -1,0 +1,10 @@
+a278_0.jpg               	 dettol                   	 0.7919
+a278_1.jpg               	 dettol                   	 0.8772
+a278_2.jpg               	 tas                      	 0.0004
+a278_3.jpg               	 defence                  	 0.7979
+a278_4.jpg               	 10093                    	 0.1602
+a278_5.jpg               	 sure                     	 0.9934
+a278_6.jpg               	 antiseptic               	 0.4349
+a278_7.jpg               	 antiseptic               	 0.4349
+a278_8.jpg               	 harpic                   	 0.4324
+a278_9.jpg               	 choly                    	 0.0007

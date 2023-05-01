@@ -1,0 +1,13 @@
+a257_0.jpg               	 new                      	 0.6723
+a257_1.jpg               	 d                        	 0.7422
+a257_2.jpg               	 improvei                 	 0.1208
+a257_3.jpg               	 yardley                  	 0.6195
+a257_4.jpg               	 london                   	 0.7414
+a257_5.jpg               	 english                  	 0.2973
+a257_6.jpg               	 lavender                 	 0.3560
+a257_7.jpg               	 fragrant                 	 0.7412
+a257_8.jpg               	 beauty                   	 0.9206
+a257_9.jpg               	 talc                     	 0.8731
+a257_10.jpg              	 9700                     	 0.9686
+a257_11.jpg              	 naturally                	 0.4210
+a257_12.jpg              	 derived                  	 0.9634

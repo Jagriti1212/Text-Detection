@@ -1,0 +1,9 @@
+a322_0.jpg               	 coln                     	 0.6797
+a322_1.jpg               	 multisuntacey            	 0.0366
+a322_2.jpg               	 a                        	 0.7685
+a322_3.jpg               	 cleaner                  	 0.2162
+a322_4.jpg               	 be                       	 0.5803
+a322_5.jpg               	 glass                    	 0.6035
+a322_6.jpg               	 th                       	 0.0037
+a322_7.jpg               	 sparkling                	 0.5857
+a322_8.jpg               	 shine                    	 0.7219

@@ -1,0 +1,13 @@
+a739_0.jpg               	 dove                     	 0.4911
+a739_1.jpg               	 body                     	 0.7373
+a739_2.jpg               	 love                     	 0.8315
+a739_3.jpg               	 lash                     	 0.6913
+a739_4.jpg               	 light                    	 0.5180
+a739_5.jpg               	 hydration                	 0.4043
+a739_6.jpg               	 reeters                  	 0.0000
+a739_7.jpg               	 lotion                   	 0.5884
+a739_8.jpg               	 body                     	 0.8667
+a739_9.jpg               	 typ                      	 0.7936
+a739_10.jpg              	 nutriduo                 	 0.6840
+a739_11.jpg              	 paraben                  	 0.7053
+a739_12.jpg              	 fre                      	 0.9909

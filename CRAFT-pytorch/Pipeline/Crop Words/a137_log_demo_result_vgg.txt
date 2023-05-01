@@ -1,0 +1,7 @@
+a137_0.jpg               	 imalaya                  	 0.3374
+a137_1.jpg               	 nct                      	 0.0496
+a137_2.jpg               	 odonil                   	 0.9455
+a137_3.jpg               	 room                     	 0.5419
+a137_4.jpg               	 spray                    	 0.6179
+a137_5.jpg               	 sandal                   	 0.8735
+a137_6.jpg               	 bouquet                  	 0.3042

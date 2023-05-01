@@ -1,0 +1,7 @@
+a158_0.jpg               	 tm                       	 0.7946
+a158_1.jpg               	 imalaya                  	 0.3379
+a158_2.jpg               	 since                    	 0.5361
+a158_3.jpg               	 i                        	 0.2730
+a158_4.jpg               	 930                      	 0.8293
+a158_5.jpg               	 baby                     	 0.6961
+a158_6.jpg               	 lotion                   	 0.6688

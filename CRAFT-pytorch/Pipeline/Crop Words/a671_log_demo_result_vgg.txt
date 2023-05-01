@@ -1,0 +1,17 @@
+a671_0.jpg               	 buy                      	 0.0126
+a671_1.jpg               	 va                       	 0.9885
+a671_2.jpg               	 vasmol                   	 0.9308
+a671_3.jpg               	 i                        	 0.9135
+a671_4.jpg               	 gem                      	 0.7425
+a671_5.jpg               	 i                        	 0.5626
+a671_6.jpg               	 black                    	 0.3404
+a671_7.jpg               	 hair                     	 0.8883
+a671_8.jpg               	 oil                      	 0.8514
+a671_9.jpg               	 99                       	 0.9978
+a671_10.jpg              	 10                       	 0.6296
+a671_11.jpg              	 with                     	 0.6129
+a671_12.jpg              	 known                    	 0.2583
+a671_13.jpg              	 herbs                    	 0.9000
+a671_14.jpg              	 prevent                  	 0.7927
+a671_15.jpg              	 creying                  	 0.4858
+a671_16.jpg              	 early                    	 0.8973

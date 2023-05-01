@@ -1,0 +1,56 @@
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/demo_1.png    	available                	0.5610
+demo_image/demo_2.jpg    	shakeshack               	0.4792
+demo_image/demo_3.png    	londen                   	0.7947
+demo_image/demo_4.png    	greenstead               	0.9409
+demo_image/demo_5.png    	toast                    	0.7408
+demo_image/demo_6.png    	merrt                    	0.4749
+demo_image/demo_7.png    	underground              	0.6128
+demo_image/demo_8.jpg    	honaldo                  	0.2704
+demo_image/demo_9.jpg    	balay                    	0.0753
+demo_image/demo_10.jpg   	university               	0.5636
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/20220821_205537_746.6823_3127.1292_2701.2705_3277.482_2670.3_3680.0996_715.71185_3529.7468.jpg	cucumber                 	0.1659
+demo_image/20220821_205537_751.70776_3625.3389_1016.44617_3658.4314_995.53845_3825.6926_730.8001_3792.6.jpg	for                      	0.5763
+demo_image/20220821_205537_1105.2628_2760.6943_2027.9479_2812.9216_2006.189_3197.3315_1083.5038_3145.1042.jpg	aloe                     	0.6251
+demo_image/20220821_205537_1908.0_3762.0_2259.0_3762.0_2259.0_3924.0_1908.0_3924.0 (1).jpg	and                      	0.9334
+demo_image/20220821_205537_2136.666_2827.6782_3053.2659_2859.2852_3040.1187_3240.556_2123.5188_3208.9487.jpg	vera                     	0.9244
+demo_image/20220821_205537_2313.0_3771.0_2961.0_3771.0_2961.0_3933.0_2313.0_3933.0.jpg	smooth                   	0.8859
+demo_image/20220821_205537_2817.0_3285.0_3357.0_3285.0_3357.0_3645.0_2817.0_3645.0.jpg	gel                      	0.9617
+demo_image/20220821_205537_2988.4204_3777.7236_3310.5996_3757.5874_3320.6152_3917.8362_2998.4363_3937.9724.jpg	skin                     	0.3814
+demo_image/demo_1.png    	available                	0.5610
+demo_image/demo_2.jpg    	shakeshack               	0.4792
+demo_image/demo_3.png    	londen                   	0.7947
+demo_image/demo_4.png    	greenstead               	0.9409
+demo_image/demo_5.png    	toast                    	0.7408
+demo_image/demo_6.png    	merrt                    	0.4749
+demo_image/demo_7.png    	underground              	0.6128
+demo_image/demo_8.jpg    	honaldo                  	0.2705
+demo_image/demo_9.jpg    	balay                    	0.0753
+demo_image/demo_10.jpg   	university               	0.5636
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/20220821_205537_746.6823_3127.1292_2701.2705_3277.482_2670.3_3680.0996_715.71185_3529.7468.jpg	cucumber                 	0.1659
+demo_image/20220821_205537_751.70776_3625.3389_1016.44617_3658.4314_995.53845_3825.6926_730.8001_3792.6.jpg	for                      	0.5763
+demo_image/20220821_205537_1030.1312_3671.5576_1857.0247_3746.7297_1841.164_3921.197_1014.27057_3846.025.jpg	hydrated                 	0.7890
+demo_image/20220821_205537_1105.2628_2760.6943_2027.9479_2812.9216_2006.189_3197.3315_1083.5038_3145.1042.jpg	aloe                     	0.6251
+demo_image/20220821_205537_1908.0_3762.0_2259.0_3762.0_2259.0_3924.0_1908.0_3924.0 (1).jpg	and                      	0.9334
+demo_image/20220821_205537_2136.666_2827.6782_3053.2659_2859.2852_3040.1187_3240.556_2123.5188_3208.9487.jpg	vera                     	0.9244
+demo_image/20220821_205537_2313.0_3771.0_2961.0_3771.0_2961.0_3933.0_2313.0_3933.0.jpg	smooth                   	0.8859
+demo_image/20220821_205537_2817.0_3285.0_3357.0_3285.0_3357.0_3645.0_2817.0_3645.0.jpg	gel                      	0.9617
+demo_image/20220821_205537_2988.4204_3777.7236_3310.5996_3757.5874_3320.6152_3917.8362_2998.4363_3937.9724.jpg	skin                     	0.3814
+demo_image/demo_1.png    	available                	0.5610
+demo_image/demo_2.jpg    	shakeshack               	0.4792
+demo_image/demo_3.png    	londen                   	0.7947
+demo_image/demo_4.png    	greenstead               	0.9409
+demo_image/demo_5.png    	toast                    	0.7408
+demo_image/demo_6.png    	merrt                    	0.4749
+demo_image/demo_7.png    	underground              	0.6128
+demo_image/demo_8.jpg    	honaldo                  	0.2705
+demo_image/demo_9.jpg    	balay                    	0.0753
+demo_image/demo_10.jpg   	university               	0.5636

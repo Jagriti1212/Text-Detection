@@ -1,0 +1,16 @@
+a343_0.jpg               	 3thes                    	 0.0888
+a343_1.jpg               	 amul                     	 0.5711
+a343_2.jpg               	 motil                    	 0.3287
+a343_3.jpg               	 stacs                    	 0.0497
+a343_4.jpg               	 hersheys                 	 0.9358
+a343_5.jpg               	 syrup                    	 0.9508
+a343_6.jpg               	 ape                      	 0.0020
+a343_7.jpg               	 sircs                    	 0.0916
+a343_8.jpg               	 delicious                	 0.5360
+a343_9.jpg               	 strawberryflavor         	 0.1648
+a343_10.jpg              	 ad                       	 0.2783
+a343_11.jpg              	 coetns                   	 0.0000
+a343_12.jpg              	 s                        	 0.0000
+a343_13.jpg              	 misy                     	 0.1758
+a343_14.jpg              	 ob                       	 0.2053
+a343_15.jpg              	 ay                       	 0.0840

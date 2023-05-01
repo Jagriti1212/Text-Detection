@@ -1,0 +1,15 @@
+a724_0.jpg               	 mouthwash                	 0.5988
+a724_1.jpg               	 listerine                	 0.2912
+a724_2.jpg               	 original                 	 0.3702
+a724_3.jpg               	 to                       	 0.9998
+a724_4.jpg               	 help                     	 0.9449
+a724_5.jpg               	 problems                 	 0.4307
+a724_6.jpg               	 prevent                  	 0.8596
+a724_7.jpg               	 gum                      	 0.8170
+a724_8.jpg               	 bad                      	 0.9215
+a724_9.jpg               	 breath                   	 0.4372
+a724_10.jpg              	 plaque                   	 0.8911
+a724_11.jpg              	 8                        	 0.9682
+a724_12.jpg              	 80                       	 0.9966
+a724_13.jpg              	 ml                       	 0.8709
+a724_14.jpg              	 309115                   	 0.6356

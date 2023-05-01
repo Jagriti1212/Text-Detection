@@ -1,0 +1,15 @@
+a270_0.jpg               	 t65                      	 0.2123
+a270_1.jpg               	 aol                      	 0.0052
+a270_2.jpg               	 cmrp                     	 0.4039
+a270_3.jpg               	 taxesy                   	 0.9201
+a270_4.jpg               	 inclusive                	 0.3614
+a270_5.jpg               	 of                       	 0.9982
+a270_6.jpg               	 all                      	 0.8365
+a270_7.jpg               	 dhathri                  	 0.8383
+a270_8.jpg               	 ayurveda                 	 0.8376
+a270_9.jpg               	 myactin                  	 0.4227
+a270_10.jpg              	 ortho                    	 0.5843
+a270_11.jpg              	 on                       	 0.9759
+a270_12.jpg              	 roll                     	 0.4813
+a270_13.jpg              	 fastpain                 	 0.7240
+a270_14.jpg              	 relief                   	 0.7316

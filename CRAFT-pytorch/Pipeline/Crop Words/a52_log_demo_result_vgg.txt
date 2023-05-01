@@ -1,0 +1,10 @@
+a52_0.jpg                	 chloroxylenoly           	 0.0520
+a52_1.jpg                	 terpineol                	 0.7607
+a52_2.jpg                	 8                        	 0.8851
+a52_3.jpg                	 absolute                 	 0.4356
+a52_4.jpg                	 alcohol                  	 0.8279
+a52_5.jpg                	 antiseptic               	 0.2439
+a52_6.jpg                	 liquid                   	 0.8007
+a52_7.jpg                	 dettol                   	 0.7688
+a52_8.jpg                	 antiseptic               	 0.2218
+a52_9.jpg                	 liquid                   	 0.4306

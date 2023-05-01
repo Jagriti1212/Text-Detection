@@ -1,0 +1,16 @@
+a688_0.jpg               	 fot                      	 0.0021
+a688_1.jpg               	 ponds                    	 0.4423
+a688_2.jpg               	 ormuna                   	 0.0500
+a688_3.jpg               	 eo                       	 0.7231
+a688_4.jpg               	 pondys                   	 0.3422
+a688_5.jpg               	 vitamin                  	 0.0885
+a688_6.jpg               	 triple                   	 0.3867
+a688_7.jpg               	 silky                    	 0.4864
+a688_8.jpg               	 smooth                   	 0.3205
+a688_9.jpg               	 mon                      	 0.2052
+a688_10.jpg              	 skin                     	 0.4549
+a688_11.jpg              	 rurising                 	 0.0639
+a688_12.jpg              	 fon                      	 0.0507
+a688_13.jpg              	 ataming                  	 0.0224
+a688_14.jpg              	 b3                       	 0.4559
+a688_15.jpg              	 esc                      	 0.9193
