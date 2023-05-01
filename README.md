@@ -1,3 +1,5 @@
+Pipeline/test contains the dataset images.<br />
+
 1.Install Requirements-<br />
 torch==0.4.1.post2<br />
 torchvision==0.2.1<br />
