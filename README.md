@@ -16,7 +16,7 @@ natsort<br />
 The score maps will be saved in the Pipeline/results folder and the bounding box coordinates of the detected words for every image will be saved in the data.csv file<br />
 
 3.Run the below command to crop the detected words for every image-<br />
-!python3 Pipeline/pipeline.py<br />
+!python Pipeline/crop_images.py<br />
 The cropped words for every image will be saved in the Pipeline/Crop Words folder.<br />
 
 4.Run the follwing command to save the recognized words to data.csv file.<br />
